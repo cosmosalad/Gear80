@@ -35,7 +35,7 @@
 <br/><br/><br/><br/>
 
 
-### case_part<br/>
+### sla_part<br/>
 ![part](https://github.com/cosmosalad/Gear80/assets/45204109/516db3e7-af4f-4ccc-8495-9a9609c79385)
 
 
