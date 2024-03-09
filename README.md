@@ -37,3 +37,11 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear80/tree/main/
 <br/>
 
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial) as firmware<br/><br/>
+
+
+<p align="center">
+  <a href="https://youtube.com/embed/gBcXavTLRE8">
+    <img src="http://img.youtube.com/vi/lhAkio-YmMc/0.jpg" alt="gear60">
+  </a>
+</p>
+<br/>
