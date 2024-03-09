@@ -32,4 +32,8 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear80/tree/main/
 <br/>
 
 ![Gear80-A_1 0mm01](https://github.com/cosmosalad/Gear80/assets/45204109/2526988f-1b09-4fdd-9c7d-e32aa2a8d63d)<br/>
-[More pcb ](https://github.com/cosmosalad/Gear80/tree/main/pcb)
+[More pcb ](https://github.com/cosmosalad/Gear80/tree/main/pcb)<br/>
+
+<br/>
+
+This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial) as firmware<br/><br/>
