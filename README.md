@@ -17,6 +17,11 @@ The Gear80 is a 80% keyboard based on the rp2040.
 ![0101](https://github.com/cosmosalad/Gear80/assets/45204109/689b81e6-bc58-499f-8709-8534283e4830)<br/>
 ![0202](https://github.com/cosmosalad/Gear80/assets/45204109/bc78121a-aac2-418a-a08a-1b998d3e4eb3)<br/>
 
+<br/>
+
+There is also a [keyboard plate](https://github.com/cosmosalad/Gear80/tree/main/plate).<br/>
+[Keyboard case](https://github.com/cosmosalad/Gear80/tree/main/case) corresponding to this layout.<br/>
+
 <br/><br/>
 
 
