@@ -9,7 +9,8 @@ The Gear80 is a 80% keyboard based on the rp2040.
 ## Layout<br/>
 
 - gear80 hotswap, solder
-![dee](https://github.com/cosmosalad/Gear80/assets/45204109/f447c61a-c298-4e5d-935d-6f42d8ecb7f7)<br/>
+![feeee](https://github.com/cosmosalad/Gear80/assets/45204109/19175925-e0bf-4c29-8ef2-8541385072e9)
+<br/>
 <br/>
 
 - gear80-a solder
