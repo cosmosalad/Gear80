@@ -1,4 +1,4 @@
-### gear80_top_wkl<br/>
+### gear80_top_wkl_sla<br/>
 ![gear80_top_wkl](https://github.com/cosmosalad/Gear80/assets/45204109/59be2755-b29f-4cda-9ee6-951181319bc5)
 
 <br/><br/><br/><br/>
@@ -35,6 +35,6 @@
 <br/><br/><br/><br/>
 
 
-### sla_part<br/>
+### sla_part(top_wkl_sla, top_sla)<br/>
 ![part](https://github.com/cosmosalad/Gear80/assets/45204109/1e62e0c7-8a20-44f2-94f9-026dafcdcf8b)
 
