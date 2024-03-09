@@ -36,6 +36,5 @@
 
 
 ### sla_part<br/>
-![part](https://github.com/cosmosalad/Gear80/assets/45204109/516db3e7-af4f-4ccc-8495-9a9609c79385)
-
+![part](https://github.com/cosmosalad/Gear80/assets/45204109/1e62e0c7-8a20-44f2-94f9-026dafcdcf8b)
 
