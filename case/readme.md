@@ -18,13 +18,13 @@
 
 ### gear80_top_cnc<br/>
 ![gear80_top_wkl_cnc](https://github.com/cosmosalad/Gear80/assets/45204109/cf749258-fe1d-420b-a35e-f2be7e5c2c50)
-![sasd](https://github.com/cosmosalad/Gear80/assets/45204109/460d6543-6eca-4049-b307-41ccb176e705)
 
 <br/><br/><br/><br/>
 
 
 ### gear80_bottom_cnc, bottom_part01_cnc<br/>
 ![gear80_bottom_cnc](https://github.com/cosmosalad/Gear80/assets/45204109/8ecf8a1b-cd4f-4bd0-8e21-c1b7964a9615)
+![sasd](https://github.com/cosmosalad/Gear80/assets/45204109/460d6543-6eca-4049-b307-41ccb176e705)
 
 <br/><br/><br/><br/>
 
