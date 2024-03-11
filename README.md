@@ -40,7 +40,7 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear80/tree/main/
 
 
 ## PCB<br/>
-It may differ from the sample.<br/>
+It may differ from the sample photo and file.<br/>
 ![Gear80 hotswap01](https://github.com/cosmosalad/Gear80/assets/45204109/6a480475-2310-4fbc-9ffa-52cb97365e97)<br/>
 ![23452345](https://github.com/cosmosalad/Gear80/assets/45204109/6aaf847e-fb79-4a26-ac0e-ad9216a37006)<br/>
 
