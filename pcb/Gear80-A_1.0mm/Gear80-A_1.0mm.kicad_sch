@@ -1723,14 +1723,8 @@
   (junction (at 398.78 182.88) (diameter 0) (color 0 0 0 0)
     (uuid b354f653-dda9-4ab4-b0fb-04ad93a6b1e9)
   )
-  (junction (at 356.87 162.56) (diameter 0) (color 0 0 0 0)
-    (uuid b4ca8652-2e2e-4330-9441-7245e1c94dfd)
-  )
   (junction (at 568.96 120.65) (diameter 0) (color 0 0 0 0)
     (uuid b6044900-6550-4f8a-898a-cb536eb4da00)
-  )
-  (junction (at 361.95 162.56) (diameter 0) (color 0 0 0 0)
-    (uuid b92c2d30-e09a-41ea-8f25-4ff70761ba98)
   )
   (junction (at 52.07 177.8) (diameter 0) (color 0 0 0 0)
     (uuid b94e3d2f-98ee-4640-9d9c-a626bb32e5aa)
@@ -1861,6 +1855,9 @@
   (junction (at 539.75 182.88) (diameter 0) (color 0 0 0 0)
     (uuid f044ecb2-2f2e-4fb9-8031-2e063a50d510)
   )
+  (junction (at 361.95 162.56) (diameter 0) (color 0 0 0 0)
+    (uuid f08dcace-0e51-47f6-9823-af5966c2f9a2)
+  )
   (junction (at 449.58 127) (diameter 0) (color 0 0 0 0)
     (uuid f1c228d1-089b-488b-9e5d-7a44d64fc65f)
   )
@@ -1946,10 +1943,6 @@
     (stroke (width 0) (type default))
     (uuid 02a351a2-4540-4525-9f0b-400465866076)
   )
-  (wire (pts (xy 356.87 162.56) (xy 361.95 162.56))
-    (stroke (width 0) (type default))
-    (uuid 02b86d4a-2ada-4b46-83c2-acce1cb83739)
-  )
   (wire (pts (xy 361.95 127) (xy 377.19 127))
     (stroke (width 0) (type default))
     (uuid 032b8287-cf87-44ab-9c6e-a3960c62958c)
@@ -1994,7 +1987,7 @@
     (stroke (width 0) (type default))
     (uuid 0a055fc1-b3bc-4521-886f-9a11b7e8fd51)
   )
-  (wire (pts (xy 356.87 162.56) (xy 356.87 177.8))
+  (wire (pts (xy 356.87 157.48) (xy 356.87 177.8))
     (stroke (width 0) (type default))
     (uuid 0a455408-c745-4203-bbef-c7f5374ba2b2)
   )
@@ -2689,10 +2682,6 @@
   (wire (pts (xy 444.5 115.57) (xy 444.5 135.89))
     (stroke (width 0) (type default))
     (uuid 69f4f701-671b-44bc-8d93-c81b07f53459)
-  )
-  (wire (pts (xy 354.33 162.56) (xy 356.87 162.56))
-    (stroke (width 0) (type default))
-    (uuid 6a1ffc4d-44fb-4337-acbb-4418cacdb7a3)
   )
   (wire (pts (xy 524.51 147.32) (xy 539.75 147.32))
     (stroke (width 0) (type default))
@@ -3545,6 +3534,10 @@
   (wire (pts (xy 678.18 154.94) (xy 678.18 176.53))
     (stroke (width 0) (type default))
     (uuid d701a061-d128-4835-9a92-152d71db8855)
+  )
+  (wire (pts (xy 354.33 162.56) (xy 361.95 162.56))
+    (stroke (width 0) (type default))
+    (uuid d7218785-b9b4-4d91-8d67-025496bfc9e0)
   )
   (wire (pts (xy 720.09 128.27) (xy 718.82 128.27))
     (stroke (width 0) (type default))
@@ -7579,8 +7572,8 @@
     (property "Datasheet" "~" (at 345.44 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 425daa88-ca50-4c65-b3ce-e539095e75cb))
-    (pin "2" (uuid 8c797a3e-3626-46e4-b8b2-4e3e76aa7cd1))
+    (pin "1" (uuid 508a1535-3a25-4e40-9566-59004b1be787))
+    (pin "2" (uuid 2c19b3b2-13ea-497e-8a70-756d31d49cf8))
     (instances
       (project "gear80_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
@@ -8351,8 +8344,8 @@
     (property "Datasheet" "~" (at 353.06 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 914a2f45-9489-46b5-9171-7e9cf5c6f273))
-    (pin "2" (uuid 6b94fb48-97b6-418c-a4dd-80d8b5b11b46))
+    (pin "1" (uuid 30fe5ec5-ea9b-45aa-b9f8-a94f289e6ae7))
+    (pin "2" (uuid 9c2de1a4-fcf8-481c-a45c-395fead551de))
     (instances
       (project "gear80_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
@@ -11887,8 +11880,8 @@
     (property "Datasheet" "~" (at 359.41 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bcf216b4-a607-4857-a24f-f3e9b9689415))
-    (pin "2" (uuid 92d34286-e561-4630-bf25-112c432fd3eb))
+    (pin "1" (uuid 1e8d590c-4996-4986-8dac-cce9103c0959))
+    (pin "2" (uuid 9cf09c57-afd9-4fa2-b0f9-f4cee5f6de6c))
     (instances
       (project "gear80_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
@@ -12392,8 +12385,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 361.95 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8b98ac4c-220b-4b84-8ddd-6995c22739fb))
-    (pin "2" (uuid e11848c8-75b9-477d-b012-718d7ef89fbc))
+    (pin "1" (uuid bc6124e7-2ef2-4755-9ea5-c1cce56d7e96))
+    (pin "2" (uuid 3ab1916a-110e-472c-bdc3-96838124df1a))
     (instances
       (project "gear80_solder"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
