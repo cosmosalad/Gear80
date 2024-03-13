@@ -5,5 +5,5 @@
 <br/><br/><br/>
 
 ### gear80-a_plate<br/>
-![gear80-a_plate](https://github.com/cosmosalad/Gear80/assets/45204109/7ddf5981-359f-4589-b694-5ed7527d1b38)<br/>
+![gear80-a_plate](https://github.com/cosmosalad/Gear80/assets/45204109/fafbbec6-0eda-4293-a74b-0adf3b77e826)<br/>
 
