@@ -48,10 +48,9 @@ It may differ from the sample photo and file.<br/>
 
 ![Gear80-A_1 0mm01](https://github.com/cosmosalad/Gear80/assets/45204109/2526988f-1b09-4fdd-9c7d-e32aa2a8d63d)<br/>
 ![1212142](https://github.com/cosmosalad/Gear80/assets/45204109/8be8a338-4881-46b2-9020-7547cca913aa)<br/>
-
 [More pcb ](https://github.com/cosmosalad/Gear80/tree/main/pcb)<br/>
 
-<br/>
+This pcb was made by jlcpcb.([list of pcb parts](https://github.com/cosmosalad/Gear80/blob/main/pcb/Gear80%20solder/part%20list.md))<br/><br/>
 
 This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial) as firmware<br/><br/>
 
