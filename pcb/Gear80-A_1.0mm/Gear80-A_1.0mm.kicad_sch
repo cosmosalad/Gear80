@@ -1624,6 +1624,9 @@
   (junction (at 435.61 189.23) (diameter 0) (color 0 0 0 0)
     (uuid 8a52debf-e191-421d-b7bd-38e291477c5f)
   )
+  (junction (at 495.3 182.88) (diameter 0) (color 0 0 0 0)
+    (uuid 8cbc0c19-987f-4fed-b7aa-4828411718c5)
+  )
   (junction (at 495.3 147.32) (diameter 0) (color 0 0 0 0)
     (uuid 8e26a8d1-fed3-443f-a4a1-b65bd5bf5e4f)
   )
@@ -1635,6 +1638,9 @@
   )
   (junction (at 372.11 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 9018c1ea-2589-465d-b8ae-31b23d886639)
+  )
+  (junction (at 490.22 177.8) (diameter 0) (color 0 0 0 0)
+    (uuid 908cf18c-283f-4dcb-acb3-bd446f8655ba)
   )
   (junction (at 430.53 157.48) (diameter 0) (color 0 0 0 0)
     (uuid 94a29c96-d3e4-424d-8308-636875e9f28a)
@@ -1714,6 +1720,9 @@
   (junction (at 406.4 104.14) (diameter 0) (color 0 0 0 0)
     (uuid b06341e4-9ac7-43e1-a7ac-8361bf0045ab)
   )
+  (junction (at 468.63 182.88) (diameter 0) (color 0 0 0 0)
+    (uuid b1609f47-3cf5-410d-8b2a-757569e17787)
+  )
   (junction (at 665.48 143.51) (diameter 0) (color 0 0 0 0)
     (uuid b2470260-cd70-46d0-809c-c2d221fcee94)
   )
@@ -1789,6 +1798,9 @@
   (junction (at 118.11 142.24) (diameter 0) (color 0 0 0 0)
     (uuid cd7b02e0-78d0-42ce-8779-8248b6a89c2e)
   )
+  (junction (at 435.61 182.88) (diameter 0) (color 0 0 0 0)
+    (uuid cda5cf61-e57d-473c-b053-299927d6e0b8)
+  )
   (junction (at 372.11 115.57) (diameter 0) (color 0 0 0 0)
     (uuid d093df63-ebb0-4656-bbc2-b7b174ef1f26)
   )
@@ -1800,6 +1812,9 @@
   )
   (junction (at 77.47 254) (diameter 0) (color 0 0 0 0)
     (uuid d61f930d-3c80-4f18-a045-19860e0fb584)
+  )
+  (junction (at 463.55 177.8) (diameter 0) (color 0 0 0 0)
+    (uuid d8695621-a054-4ee1-8016-397cfc4952cd)
   )
   (junction (at 406.4 147.32) (diameter 0) (color 0 0 0 0)
     (uuid da09b5c2-0227-459d-a4c5-0f15c3ec10ea)
@@ -1893,6 +1908,9 @@
   )
   (junction (at 88.9 149.86) (diameter 0) (color 0 0 0 0)
     (uuid fc826966-c396-4eb2-b17e-599a13f562bc)
+  )
+  (junction (at 430.53 177.8) (diameter 0) (color 0 0 0 0)
+    (uuid fca5ff5b-3cd9-44b4-b179-4dc6927a0482)
   )
   (junction (at 524.51 189.23) (diameter 0) (color 0 0 0 0)
     (uuid fd7af58a-4354-4100-b956-816ce2536773)
@@ -2014,6 +2032,10 @@
   (wire (pts (xy 142.24 195.58) (xy 147.32 195.58))
     (stroke (width 0) (type default))
     (uuid 0e776ab8-f3b1-45d9-9fe2-876ca7acd41d)
+  )
+  (wire (pts (xy 492.76 177.8) (xy 490.22 177.8))
+    (stroke (width 0) (type default))
+    (uuid 0eb2feb0-cde2-4c45-a89f-f620ee3b318c)
   )
   (wire (pts (xy 549.91 92.71) (xy 549.91 115.57))
     (stroke (width 0) (type default))
@@ -2271,6 +2293,10 @@
     (stroke (width 0) (type default))
     (uuid 33c556f4-d0de-46c5-91dd-0fb08856ca6b)
   )
+  (wire (pts (xy 487.68 177.8) (xy 490.22 177.8))
+    (stroke (width 0) (type default))
+    (uuid 34769ccf-ba1a-47b1-ac42-9c49f229afab)
+  )
   (wire (pts (xy 31.75 62.23) (xy 33.02 62.23))
     (stroke (width 0) (type default))
     (uuid 34ef4819-db15-4e2e-813a-4900fc2dae16)
@@ -2354,6 +2380,10 @@
   (wire (pts (xy 328.93 132.08) (xy 330.2 132.08))
     (stroke (width 0) (type default))
     (uuid 3ee44352-6889-4767-9590-93af989af9e8)
+  )
+  (wire (pts (xy 497.84 182.88) (xy 495.3 182.88))
+    (stroke (width 0) (type default))
+    (uuid 3f559378-f9d5-47fe-8c53-3a6313e122cf)
   )
   (wire (pts (xy 53.34 22.86) (xy 55.88 22.86))
     (stroke (width 0) (type default))
@@ -2486,6 +2516,10 @@
   (wire (pts (xy 495.3 120.65) (xy 495.3 121.92))
     (stroke (width 0) (type default))
     (uuid 4ff00b0b-9cd5-4803-851e-104c28d7145d)
+  )
+  (wire (pts (xy 425.45 177.8) (xy 430.53 177.8))
+    (stroke (width 0) (type default))
+    (uuid 50b0d38b-ce87-4329-a363-5b206af4b3ba)
   )
   (wire (pts (xy 377.19 147.32) (xy 391.16 147.32))
     (stroke (width 0) (type default))
@@ -2762,6 +2796,10 @@
   (wire (pts (xy 490.22 157.48) (xy 490.22 177.8))
     (stroke (width 0) (type default))
     (uuid 7354d88c-6e9a-49b7-b508-12be50804eca)
+  )
+  (wire (pts (xy 463.55 177.8) (xy 468.63 177.8))
+    (stroke (width 0) (type default))
+    (uuid 735d0e64-8578-4cbf-ab67-e7d5b67b8e26)
   )
   (wire (pts (xy 274.32 115.57) (xy 274.32 93.98))
     (stroke (width 0) (type default))
@@ -3055,7 +3093,7 @@
     (stroke (width 0) (type default))
     (uuid 93ff0576-5afa-4596-97e3-6a5daa835c21)
   )
-  (wire (pts (xy 464.82 182.88) (xy 469.9 182.88))
+  (wire (pts (xy 464.82 182.88) (xy 468.63 182.88))
     (stroke (width 0) (type default))
     (uuid 941f3be4-27ca-4c58-a024-76bb7954b4c1)
   )
@@ -3131,6 +3169,10 @@
     (stroke (width 0) (type default))
     (uuid 9c58f13b-4b44-48a4-8306-ab3c23f85d0e)
   )
+  (wire (pts (xy 468.63 182.88) (xy 473.71 182.88))
+    (stroke (width 0) (type default))
+    (uuid 9ce48f8a-a9d2-4ecb-ada1-f3357e09a31f)
+  )
   (wire (pts (xy 40.64 254) (xy 41.91 254))
     (stroke (width 0) (type default))
     (uuid 9ce8b07f-4a73-4163-a519-487c3d68e0e8)
@@ -3182,6 +3224,10 @@
   (wire (pts (xy 391.16 168.91) (xy 406.4 168.91))
     (stroke (width 0) (type default))
     (uuid a1153461-7948-4fef-9c26-17fe20ee8b56)
+  )
+  (wire (pts (xy 430.53 182.88) (xy 435.61 182.88))
+    (stroke (width 0) (type default))
+    (uuid a14dab7e-6ad9-4327-94d7-ad0b14df2af9)
   )
   (wire (pts (xy 26.67 140.97) (xy 26.67 142.24))
     (stroke (width 0) (type default))
@@ -3487,7 +3533,7 @@
     (stroke (width 0) (type default))
     (uuid ce7db7e5-062c-4c14-a64f-251c8f838f7f)
   )
-  (wire (pts (xy 459.74 177.8) (xy 464.82 177.8))
+  (wire (pts (xy 459.74 177.8) (xy 463.55 177.8))
     (stroke (width 0) (type default))
     (uuid cec7e3a7-627a-40c8-9cd3-982db42ce4cd)
   )
@@ -3742,6 +3788,10 @@
   (wire (pts (xy 97.79 143.51) (xy 97.79 142.24))
     (stroke (width 0) (type default))
     (uuid f01f41c9-a9bb-418d-abc8-1e64bffd4a68)
+  )
+  (wire (pts (xy 492.76 182.88) (xy 495.3 182.88))
+    (stroke (width 0) (type default))
+    (uuid f09a183e-1f39-479d-b3a2-7cfac578ee50)
   )
   (wire (pts (xy 568.96 120.65) (xy 575.31 120.65))
     (stroke (width 0) (type default))
@@ -4949,7 +4999,7 @@
     (pin "1" (uuid bca040a3-e962-4add-abca-88f2a91c7a03))
     (pin "2" (uuid 9cc1fa75-a554-4667-91df-fbadcc223b29))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D89") (unit 1)
         )
@@ -4973,7 +5023,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S5") (unit 1)
         )
@@ -4999,7 +5049,7 @@
     (pin "1" (uuid 94fa1391-2dfc-437a-9fb6-111a12b7e9d6))
     (pin "2" (uuid a9200686-339f-4ba4-aacd-ae65167c2691))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX47") (unit 1)
         )
@@ -5031,7 +5081,7 @@
     (pin "1" (uuid 9d40c637-c09e-45de-824e-44445c256f14))
     (pin "2" (uuid 8edce0dc-681c-426b-b036-3902fbe0313b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D78") (unit 1)
         )
@@ -5057,7 +5107,7 @@
     (pin "1" (uuid c77e14d2-e419-45cd-8648-5fee74bb1a13))
     (pin "2" (uuid 52766963-78dc-42b0-adb3-821812018e20))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX84") (unit 1)
         )
@@ -5083,7 +5133,7 @@
     (pin "1" (uuid d4c4f89f-6e29-453d-b47c-762d29d48180))
     (pin "2" (uuid 644c536c-066a-494a-96a0-856d6b3d7575))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX102") (unit 1)
         )
@@ -5109,7 +5159,7 @@
     (pin "1" (uuid e67b822a-5d13-484a-84d6-4b404d8328c9))
     (pin "2" (uuid 107c7e90-3e36-4d01-a54e-963c53ae20c8))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C3") (unit 1)
         )
@@ -5135,7 +5185,7 @@
     (pin "1" (uuid 8f275608-f7d6-4054-9ced-4063fde088b6))
     (pin "2" (uuid fece85eb-b631-4b0b-910d-f014383d5332))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C12") (unit 1)
         )
@@ -5172,7 +5222,7 @@
     (pin "1" (uuid 668ba680-92eb-4b76-afa2-4e6ead282892))
     (pin "2" (uuid ac5d97e1-6c39-424c-b3dc-1d68bb375fb9))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D19") (unit 1)
         )
@@ -5198,7 +5248,7 @@
     (pin "1" (uuid 25bc9383-d01f-4309-b201-a74cc80d04bb))
     (pin "2" (uuid 272152f9-599e-4c00-942e-3bca90049d22))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX107") (unit 1)
         )
@@ -5230,7 +5280,7 @@
     (pin "1" (uuid 29ed47f8-be8a-4ff5-bde8-907f17657a9c))
     (pin "2" (uuid 2803c399-906a-48a3-9b6e-35616968f9e5))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D17") (unit 1)
         )
@@ -5256,7 +5306,7 @@
     (pin "1" (uuid 591b7395-bfe3-4fce-befa-0eb4ba4cb6f9))
     (pin "2" (uuid c009c8d5-2855-4ade-91c7-016f36f13b4a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX4") (unit 1)
         )
@@ -5288,7 +5338,7 @@
     (pin "1" (uuid 0a7fe5a0-1cdc-483e-9ab9-bffb4e3c7467))
     (pin "2" (uuid cd930f35-ce80-4b3c-a19d-3786e263ad32))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D44") (unit 1)
         )
@@ -5314,7 +5364,7 @@
     (pin "1" (uuid 4f129ca3-1d17-4f0d-82db-ba8fa6203c9e))
     (pin "2" (uuid 029be9f6-dc8e-408b-9a92-7470ee113978))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX28") (unit 1)
         )
@@ -5340,7 +5390,7 @@
     (pin "1" (uuid cb059ab6-c4c3-429d-a195-dd04cd285d8a))
     (pin "2" (uuid d9003fae-bd9a-4c5d-9ac8-b0d824ba0f1c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX13") (unit 1)
         )
@@ -5366,7 +5416,7 @@
     (pin "1" (uuid e41a73d6-76f5-4cf9-a6d5-95335c8591bf))
     (pin "2" (uuid 20f0379e-fd34-400b-acd3-5b48362e5bab))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX65") (unit 1)
         )
@@ -5392,7 +5442,7 @@
     (pin "1" (uuid 11ede7e7-5a90-45e9-a318-13ade13db9ff))
     (pin "2" (uuid baff7892-12fe-499c-8b74-c1356cfd0a7d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX52") (unit 1)
         )
@@ -5418,7 +5468,7 @@
     (pin "1" (uuid 5bd89eff-bd50-4b4b-b8fa-104b8dfb9c38))
     (pin "2" (uuid 34df0346-e12f-493c-953e-cc1e70a218f6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX71") (unit 1)
         )
@@ -5426,13 +5476,13 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 433.07 180.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 433.07 180.34 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 14ae4fd2-9741-47b1-a4e6-2d5b56ed8a29)
-    (property "Reference" "MX66" (at 433.07 172.72 0)
+    (property "Reference" "MX66" (at 440.69 187.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 433.07 175.26 0)
+    (property "Value" "MX_SW_solder" (at 441.96 185.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 433.07 180.34 0)
@@ -5444,7 +5494,7 @@
     (pin "1" (uuid f55c76f6-0511-4588-82c0-b1b82b601ffc))
     (pin "2" (uuid e2195f63-703b-4b7f-b0bc-80f76d7e8f9c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX66") (unit 1)
         )
@@ -5470,7 +5520,7 @@
     (pin "1" (uuid 9a3a39bb-4e16-43ab-b340-24094d70a432))
     (pin "2" (uuid c083e6b4-4091-4188-992f-c96fa7700490))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C13") (unit 1)
         )
@@ -5496,7 +5546,7 @@
     (pin "1" (uuid 97f6960b-dec3-4a94-9068-10032bf6e9ed))
     (pin "2" (uuid 01da4b76-1f7a-47aa-af44-5b28cad1b845))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C9") (unit 1)
         )
@@ -5528,7 +5578,7 @@
     (pin "1" (uuid 85eb3564-a9c0-438f-a899-5228b39d057c))
     (pin "2" (uuid c80717b8-a559-4700-9183-f991accb62a4))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D16") (unit 1)
         )
@@ -5554,7 +5604,7 @@
     (pin "1" (uuid 6a71a654-3907-42e4-8e73-bc22df1058b2))
     (pin "2" (uuid 4a77773a-ddf8-40d6-8cc5-14ae53ad144d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX70") (unit 1)
         )
@@ -5580,7 +5630,7 @@
     (pin "1" (uuid a02c170c-63ca-446a-9e2d-6032b59e81ad))
     (pin "2" (uuid 08c4e165-4e97-4196-b2ab-8e5186153758))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX27") (unit 1)
         )
@@ -5606,7 +5656,7 @@
     (pin "1" (uuid 5f1df9ec-c106-46a6-ae7d-912d3a083a86))
     (pin "2" (uuid 68491a5b-2ed1-4d6f-a648-70d3301cf0d8))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX38") (unit 1)
         )
@@ -5632,7 +5682,7 @@
     (pin "1" (uuid 9c77fcb7-2453-4263-85d2-088bb576b25e))
     (pin "2" (uuid 4e73583b-a1e4-4f08-9c32-660bc1977b36))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX25") (unit 1)
         )
@@ -5664,7 +5714,7 @@
     (pin "1" (uuid 3b57b628-581a-430c-a258-1ef11703eb52))
     (pin "2" (uuid 32a8458f-0750-4b4a-bb13-589d757e5c70))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D65") (unit 1)
         )
@@ -5694,7 +5744,7 @@
           (reference "#PWR024") (unit 1)
         )
       )
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR010") (unit 1)
         )
@@ -5726,7 +5776,7 @@
     (pin "1" (uuid 425df222-5d44-48e0-8bb5-491e88d76983))
     (pin "2" (uuid 1ae6ca81-77b0-4c3e-be0d-983006977d0c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D25") (unit 1)
         )
@@ -5758,7 +5808,7 @@
     (pin "1" (uuid 565ee78e-d7d0-4ec9-b0aa-000b8759852a))
     (pin "2" (uuid 217f3f21-8b21-4d36-9a09-93d44fcde4ff))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D3") (unit 1)
         )
@@ -5784,7 +5834,7 @@
     (pin "1" (uuid e854d173-ba29-4cd0-915c-3a3731385ca9))
     (pin "2" (uuid bd389429-4997-4fb2-8ce0-c38e3de95d7a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX40") (unit 1)
         )
@@ -5810,7 +5860,7 @@
     (pin "1" (uuid 25799622-14b1-4502-a745-0231829b81c3))
     (pin "2" (uuid 38315a5b-b9be-429c-9367-db705c11642c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX32") (unit 1)
         )
@@ -5842,7 +5892,7 @@
     (pin "7" (uuid d1b43eee-a3af-4eaf-9a98-5a1d8fdfd6b4))
     (pin "8" (uuid 632f2726-046a-4eb7-8168-a1431cbe24e6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U3") (unit 1)
         )
@@ -5874,7 +5924,7 @@
     (pin "1" (uuid 3ebf996f-a954-4081-817f-261c2e913325))
     (pin "2" (uuid dca5b9b5-e3a1-4b2d-afb9-fca4236692ae))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D47") (unit 1)
         )
@@ -5900,7 +5950,7 @@
     (pin "1" (uuid e8ca67f0-baa4-49da-be38-2ee1d290c9b0))
     (pin "2" (uuid 78a33359-bfd5-4747-b4f3-89a03040fe92))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C4") (unit 1)
         )
@@ -5932,7 +5982,7 @@
     (pin "1" (uuid 156d4f48-0403-46d3-a2af-7db899c68259))
     (pin "2" (uuid cf27f2fe-9f67-4f26-85e1-a5860ea0db00))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D82") (unit 1)
         )
@@ -5964,7 +6014,7 @@
     (pin "1" (uuid f9f71e7f-7756-4f56-87a9-8e497d4d316b))
     (pin "2" (uuid d98ce3cd-4f3f-4861-9ba1-63be65d9cbe1))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D77") (unit 1)
         )
@@ -5990,7 +6040,7 @@
     (pin "1" (uuid c8e90ddc-379f-4e68-8382-b09ee5093775))
     (pin "2" (uuid af3be82a-7c7b-4269-8683-6adbb2b1a84c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX89") (unit 1)
         )
@@ -6022,7 +6072,7 @@
     (pin "1" (uuid 730ec80e-a8fb-493d-9f73-182d59e030b0))
     (pin "2" (uuid 19b26a23-8836-4b6f-a049-45f4d3a276f2))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D7") (unit 1)
         )
@@ -6054,7 +6104,7 @@
     (pin "1" (uuid 7e684912-2bb3-4f49-903f-9ae9206fcfc9))
     (pin "2" (uuid bb1bfbf4-4fdd-4e88-a0a9-0f84f711d46e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D49") (unit 1)
         )
@@ -6080,7 +6130,7 @@
     (pin "1" (uuid 9a3f1396-3362-4b71-bfcb-d10d46cf05ca))
     (pin "2" (uuid d7610ddb-b308-454c-b311-22f68e8ae50b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX80") (unit 1)
         )
@@ -6106,7 +6156,7 @@
     (pin "1" (uuid b9f0da23-9600-438d-82c9-0ae69d35c5b3))
     (pin "2" (uuid 0b84789a-5d57-45b3-a560-83bc5fa988d0))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R9") (unit 1)
         )
@@ -6132,7 +6182,7 @@
     (pin "1" (uuid d6bdbf23-1565-4914-956c-c179bc53370e))
     (pin "2" (uuid f67265db-8e6d-43a1-815a-0c2aab7f6f93))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C1") (unit 1)
         )
@@ -6166,7 +6216,7 @@
     (pin "8" (uuid b205dc1a-ad3a-4d51-82f0-3c86688ff80f))
     (pin "9" (uuid 154371ba-a12e-40d6-9fb8-cda7d9c4923a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J6") (unit 1)
         )
@@ -6192,7 +6242,7 @@
     (pin "1" (uuid b2329bcb-8700-4a09-912e-574ab2bd4260))
     (pin "2" (uuid 021ea57b-165b-4bbb-9b10-a594df7d86d5))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX46") (unit 1)
         )
@@ -6218,7 +6268,7 @@
     (pin "1" (uuid 6a5955b7-34d9-48fd-8f7d-371b8d9982e5))
     (pin "2" (uuid f7e72f73-9315-4131-b4d3-589793f9a6c2))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX20") (unit 1)
         )
@@ -6252,7 +6302,7 @@
     (pin "8" (uuid 6587db7b-bed6-4bc6-9864-4496e5c7e060))
     (pin "9" (uuid f99d514f-b16b-47a6-9f88-38ac13cd7523))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J7") (unit 1)
         )
@@ -6277,7 +6327,7 @@
     )
     (pin "1" (uuid 6819b393-6363-4f69-81e5-68eb7dabb253))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR019") (unit 1)
         )
@@ -6309,7 +6359,7 @@
     (pin "1" (uuid 8bcf9e62-1243-446a-a48d-7f10419fd77c))
     (pin "2" (uuid 5df1c578-9157-478a-b9c5-0062c662b001))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D76") (unit 1)
         )
@@ -6335,7 +6385,7 @@
     (pin "1" (uuid 72a889bd-d39c-4a11-b912-ff7210fe1b78))
     (pin "2" (uuid 0791753e-1b80-4f35-8797-60f999a39a1e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX37") (unit 1)
         )
@@ -6367,7 +6417,7 @@
     (pin "1" (uuid 87ba7e91-260c-4b88-b293-53f126350f47))
     (pin "2" (uuid c076aa21-9f32-40c7-8b60-73df94d982e9))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D80") (unit 1)
         )
@@ -6393,7 +6443,7 @@
     (pin "1" (uuid c45ed182-06a9-4e17-b878-5bd97ca35fec))
     (pin "2" (uuid 59c67e47-4622-4574-bd65-ea42c888aa29))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX15") (unit 1)
         )
@@ -6419,7 +6469,7 @@
     (pin "1" (uuid 94ba52d5-9d8c-4b72-9062-33ed4e0c4572))
     (pin "2" (uuid c0e6def5-5fa7-4dfd-a843-5667252e68cf))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX96") (unit 1)
         )
@@ -6451,7 +6501,7 @@
     (pin "1" (uuid 4c55abf8-de85-47c7-a634-1aefb664eb40))
     (pin "2" (uuid b8e5ed78-9667-42da-a356-134bab518776))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D69") (unit 1)
         )
@@ -6477,7 +6527,7 @@
     (pin "1" (uuid 0fc17514-7339-45b4-8c17-e07144077095))
     (pin "2" (uuid 4dc5a6e4-e790-4964-9de1-4f29c2ccf6ec))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX29") (unit 1)
         )
@@ -6509,7 +6559,7 @@
     (pin "1" (uuid e55bb3b9-b062-4326-8d55-95225524e1ee))
     (pin "2" (uuid aed5a66d-e5e8-4ecd-b2e3-77366df70903))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D81") (unit 1)
         )
@@ -6535,7 +6585,7 @@
     (pin "1" (uuid ed0e0ecf-b028-463d-9e02-f550556fe640))
     (pin "2" (uuid a78d3e86-ac91-4dc1-bcab-db82f8da70a4))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX34") (unit 1)
         )
@@ -6561,7 +6611,7 @@
     (pin "1" (uuid 49267ae5-5334-4f88-bbb0-d9cfb40be833))
     (pin "2" (uuid 6b2f3bb0-d4de-4fc9-a913-c5a852dbb388))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R3") (unit 1)
         )
@@ -6593,7 +6643,7 @@
     (pin "1" (uuid 643611db-fc52-4a23-a430-78647aaf333a))
     (pin "2" (uuid 527927f9-890a-47bd-b3c1-785718676786))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D62") (unit 1)
         )
@@ -6619,7 +6669,7 @@
     (pin "1" (uuid ecf442a3-e230-4890-8c91-4782cab6ca43))
     (pin "2" (uuid 7c0ade31-3a59-4a52-b9db-06c76b505317))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX95") (unit 1)
         )
@@ -6651,7 +6701,7 @@
     (pin "1" (uuid f43a6d50-16b4-488c-82c3-d711ac42f08d))
     (pin "2" (uuid cee7e603-55d5-4f5a-96f0-a9c9aa741cef))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D38") (unit 1)
         )
@@ -6677,7 +6727,7 @@
     (pin "1" (uuid 1245a4a9-325b-47c3-90e0-ae2a83a98c16))
     (pin "2" (uuid 0807a551-bd8b-4fd6-b315-f235fad1eed0))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C8") (unit 1)
         )
@@ -6709,7 +6759,7 @@
     (pin "1" (uuid 129160f2-ced2-4338-a162-54abf2bbdfa3))
     (pin "2" (uuid b008c2f2-6c03-42bd-9cd3-db43d6c96dee))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D31") (unit 1)
         )
@@ -6735,7 +6785,7 @@
     (pin "1" (uuid bf0e3a19-b9a3-4e13-84ec-ef77eec1d541))
     (pin "2" (uuid c5b681e6-f4c1-4074-81b1-5e4bb09c2340))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX105") (unit 1)
         )
@@ -6761,7 +6811,7 @@
     (pin "1" (uuid ae41abb5-a689-43c2-93dc-09aa7385859e))
     (pin "2" (uuid 7a91fe51-c9be-4381-a8e1-a84eacace5ca))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX53") (unit 1)
         )
@@ -6787,7 +6837,7 @@
     (pin "1" (uuid 90f500cc-4b35-4d32-9ad6-51893a96e2fb))
     (pin "2" (uuid 0933c3d8-f42c-4013-876e-0ef67f75efb2))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX108") (unit 1)
         )
@@ -6812,7 +6862,7 @@
     )
     (pin "1" (uuid f7ca1b51-e1c4-4709-9fe2-fd44ea775923))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR023") (unit 1)
         )
@@ -6838,7 +6888,7 @@
     (pin "1" (uuid 46aec5d2-4ac0-418f-a04b-fafb5d29dfd6))
     (pin "2" (uuid e207a97f-c886-4d27-bfb9-2547a5606632))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX19") (unit 1)
         )
@@ -6864,7 +6914,7 @@
     (pin "1" (uuid d5035a84-cad9-4c5e-a1ee-ce846d41e077))
     (pin "2" (uuid 34008032-e153-496e-a686-9604d434efe8))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX86") (unit 1)
         )
@@ -6890,7 +6940,7 @@
     (pin "1" (uuid 3725ce34-58fa-4248-af97-5ec11e0fa141))
     (pin "2" (uuid c7797281-435d-47d5-8997-438be6936f7b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX61") (unit 1)
         )
@@ -6922,7 +6972,7 @@
     (pin "1" (uuid 6e1d4145-5165-4078-a7cc-9e0d5dd4776d))
     (pin "2" (uuid 7d5313c2-12b4-440c-96ed-b7fb83a4d58d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D55") (unit 1)
         )
@@ -6947,7 +6997,7 @@
     )
     (pin "1" (uuid 57007b2c-5d25-4825-8fdf-d2f91d0209f3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR013") (unit 1)
         )
@@ -6979,7 +7029,7 @@
     (pin "1" (uuid 45c145e4-4afe-4102-8e98-f09efe052568))
     (pin "2" (uuid c9060909-bca7-4eb5-bc09-71579a52fe8e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D54") (unit 1)
         )
@@ -7011,7 +7061,7 @@
     (pin "1" (uuid b9036510-6c0a-4cd0-9351-066f53a05dc8))
     (pin "2" (uuid 5c12b070-68c3-47a1-afe6-98bafa718bf3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D39") (unit 1)
         )
@@ -7043,7 +7093,7 @@
     (pin "1" (uuid 1315b0dd-a992-41f2-bfb9-eae1014cb713))
     (pin "2" (uuid 3cfaf296-d1cf-43b4-9ba4-066aadc30736))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D1") (unit 1)
         )
@@ -7069,7 +7119,7 @@
     (pin "1" (uuid ebc60fff-2dc2-4238-b50e-b440e700cadd))
     (pin "2" (uuid 303a9f8e-abcf-418f-832d-bfa9d5a05d72))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX45") (unit 1)
         )
@@ -7095,7 +7145,7 @@
     (pin "1" (uuid fe8eb68f-e8fd-43ce-993b-801a07ebcaed))
     (pin "2" (uuid 3a0d52b7-a907-475c-9872-746d32c28bee))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX64") (unit 1)
         )
@@ -7127,7 +7177,7 @@
     (pin "1" (uuid af3fd9c6-0ffa-4b91-8ff4-3259d9b251f6))
     (pin "2" (uuid 89d5aac5-2e05-4284-80ef-e5a0808a6617))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D11") (unit 1)
         )
@@ -7154,7 +7204,7 @@
     (pin "2" (uuid 0f027ad9-085b-4d51-8054-6cb1af00b0e6))
     (pin "3" (uuid 37955e5f-4db3-40bf-8926-0ead50b9f215))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U1") (unit 1)
         )
@@ -7186,7 +7236,7 @@
     (pin "1" (uuid da183da0-f083-40d1-b543-e735260acf2a))
     (pin "2" (uuid e611d75e-2f07-4432-bfbb-44f7b071aa8e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D46") (unit 1)
         )
@@ -7218,7 +7268,7 @@
     (pin "1" (uuid 1e69ebc8-5c42-4fde-957b-37e36b574a51))
     (pin "2" (uuid c4d5ef37-1567-442a-8383-d9b84066ddc6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D30") (unit 1)
         )
@@ -7243,7 +7293,7 @@
     )
     (pin "1" (uuid f4da18e3-9a76-41d1-b970-06fb02e80495))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR020") (unit 1)
         )
@@ -7275,7 +7325,7 @@
     (pin "1" (uuid 5299ad4c-0698-47d9-a4a3-34f2071027e9))
     (pin "2" (uuid bb7a2405-f285-4472-99cc-2fb09ab9516c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D48") (unit 1)
         )
@@ -7307,7 +7357,7 @@
     (pin "1" (uuid d1456be0-9fa3-4e5b-9651-bb2c46dda9c9))
     (pin "2" (uuid e69dc268-bff2-483b-b4a8-23ba66fa45ba))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D22") (unit 1)
         )
@@ -7333,7 +7383,7 @@
     (pin "1" (uuid fd9f1bf8-da8c-453b-aa3c-fc4e33e98c05))
     (pin "2" (uuid ea8459d3-3a40-4641-bc81-971bc4ab5a3b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX85") (unit 1)
         )
@@ -7358,7 +7408,7 @@
     )
     (pin "1" (uuid d24dcb80-61e8-434a-85bf-a67da324af9f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR029") (unit 1)
         )
@@ -7384,7 +7434,7 @@
     (pin "1" (uuid 5dea784c-690b-4769-935a-99eb04c25cf3))
     (pin "2" (uuid f6b205e4-ea11-488f-a09d-55ef5fa00c09))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R6") (unit 1)
         )
@@ -7416,7 +7466,7 @@
     (pin "1" (uuid 080aa5a2-6806-400b-aa8f-84de600e82b4))
     (pin "2" (uuid eb868e15-f29d-480f-bc03-39c0836cc5ff))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D72") (unit 1)
         )
@@ -7441,7 +7491,7 @@
     )
     (pin "1" (uuid e6da6f1a-f97c-41da-beee-58ce3f0be190))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR025") (unit 1)
         )
@@ -7467,7 +7517,7 @@
     (pin "1" (uuid 9415ebb8-548c-43bd-8caa-5003792bc420))
     (pin "2" (uuid 3ea7e878-9a9f-41ea-a8e0-745f49291150))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX31") (unit 1)
         )
@@ -7499,7 +7549,7 @@
     (pin "1" (uuid d5964d11-948e-4781-a586-65a89006c09f))
     (pin "2" (uuid 1decdd54-f91d-4990-8ea0-3732f71d4213))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D24") (unit 1)
         )
@@ -7525,7 +7575,7 @@
     (pin "1" (uuid 796dfbe0-8b96-482f-a877-7db8bfe4dd73))
     (pin "2" (uuid c770294d-36f5-40fa-97aa-5d23f31b1617))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX101") (unit 1)
         )
@@ -7549,7 +7599,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S7") (unit 1)
         )
@@ -7575,7 +7625,7 @@
     (pin "1" (uuid 508a1535-3a25-4e40-9566-59004b1be787))
     (pin "2" (uuid 2c19b3b2-13ea-497e-8a70-756d31d49cf8))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX82") (unit 1)
         )
@@ -7609,7 +7659,7 @@
     (pin "8" (uuid de94f724-c3d5-4817-9296-55fc1ed2cc5d))
     (pin "9" (uuid 3b51e5e2-723e-494d-b76a-6022abbcf895))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J5") (unit 1)
         )
@@ -7641,7 +7691,7 @@
     (pin "1" (uuid f52f33c6-6c60-4b7c-92b1-6a6756431403))
     (pin "2" (uuid 5ff83002-2f81-435c-b4f8-506a73d89b01))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D15") (unit 1)
         )
@@ -7667,7 +7717,7 @@
     (pin "1" (uuid 5ed2df3e-eaae-416c-bfaa-24dbed87d32b))
     (pin "2" (uuid 1b802aec-172f-4510-9cdf-3e06d358f96a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX24") (unit 1)
         )
@@ -7693,7 +7743,7 @@
     (pin "1" (uuid cf058c92-5ea8-4108-96ab-f616efee9760))
     (pin "2" (uuid d176bf1b-eb8a-47f6-8f29-59a335a34539))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX60") (unit 1)
         )
@@ -7727,7 +7777,7 @@
     (pin "8" (uuid b7508687-1410-493e-8df6-a0210dd43372))
     (pin "9" (uuid 40c6af99-33a9-4759-9026-7ed9cf8b9782))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J3") (unit 1)
         )
@@ -7752,7 +7802,7 @@
     )
     (pin "1" (uuid f86d0bc2-243c-42c3-a539-69a457bd66f1))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR012") (unit 1)
         )
@@ -7776,7 +7826,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S3") (unit 1)
         )
@@ -7802,7 +7852,7 @@
     (pin "1" (uuid b8815a62-485e-463e-aa7d-da1e3755fb79))
     (pin "2" (uuid 862e47c9-5e9f-4d5b-a501-44e8ec2071ec))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX22") (unit 1)
         )
@@ -7828,7 +7878,7 @@
     (pin "1" (uuid 8a901137-0a16-40fc-a143-e28ff49e49b9))
     (pin "2" (uuid aafd3ba7-a415-4aa6-93a3-534b8bc2bbe2))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX59") (unit 1)
         )
@@ -7854,7 +7904,7 @@
     (pin "1" (uuid 1b2be826-8e6f-474b-948e-57355f103dcb))
     (pin "2" (uuid 5a1a8235-8f00-4295-ae4d-1a0d08f26567))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX3") (unit 1)
         )
@@ -7880,7 +7930,7 @@
     (pin "1" (uuid d1d32467-91f4-4087-a68f-226844cbf99d))
     (pin "2" (uuid 9c408e6b-e64f-4c66-b811-c83be679b615))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX11") (unit 1)
         )
@@ -7908,7 +7958,7 @@
     (pin "3" (uuid 4f4e0fcc-d6be-469c-b131-91a5b0c9348c))
     (pin "4" (uuid 3f9cd40c-b954-45bb-890e-9e07d13c202d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "Y1") (unit 1)
         )
@@ -7940,7 +7990,7 @@
     (pin "1" (uuid e7a7e0c5-77a3-4425-b92d-6103a47ecdcd))
     (pin "2" (uuid 57b6cdf3-c341-4ec0-81b5-4e6e9c165e57))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D71") (unit 1)
         )
@@ -7972,7 +8022,7 @@
     (pin "1" (uuid 28acec01-80aa-4cc6-9ab2-35714eb913a3))
     (pin "2" (uuid d50154fd-bc11-4fbf-a835-545fbb0b1d2e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D32") (unit 1)
         )
@@ -8004,7 +8054,7 @@
     (pin "1" (uuid 105b9424-2fda-41c7-ba85-bc1de1637ccc))
     (pin "2" (uuid c638443b-d575-43d2-ba91-d41b52dd8259))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D88") (unit 1)
         )
@@ -8030,7 +8080,7 @@
     (pin "1" (uuid 1ba26613-5c06-4e38-bded-e062b097d3d4))
     (pin "2" (uuid ef9e3ab7-7b55-4e0f-95cd-554f938c60a7))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX111") (unit 1)
         )
@@ -8062,7 +8112,7 @@
     (pin "1" (uuid 8fa42031-ce27-45ee-badb-40741ed3c520))
     (pin "2" (uuid 423b2ff8-a5c2-438b-ba2a-24d46d0d168d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D57") (unit 1)
         )
@@ -8088,7 +8138,7 @@
     (pin "1" (uuid 77113251-71cc-42ad-85ca-4a87c19f0d9b))
     (pin "2" (uuid 944dcf36-6104-4baf-8704-c1b51533c3bf))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX83") (unit 1)
         )
@@ -8114,7 +8164,7 @@
     (pin "1" (uuid 6a56e323-4feb-4e2e-b6e3-6a4bb6a1ade9))
     (pin "2" (uuid 11ceecc1-9b41-4a0b-af6b-b47a6278b493))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX39") (unit 1)
         )
@@ -8148,7 +8198,7 @@
     (pin "8" (uuid ba400177-9e80-4fb2-bca5-09a1d4e59272))
     (pin "9" (uuid e4f17649-bb88-4716-ab1f-76837777e882))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J2") (unit 1)
         )
@@ -8174,7 +8224,7 @@
     (pin "1" (uuid ed7d0ddd-b423-4c28-b0b1-41781d6565e3))
     (pin "2" (uuid 071d6dec-6fb9-4757-addc-5714b0300b80))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX92") (unit 1)
         )
@@ -8206,7 +8256,7 @@
     (pin "1" (uuid df303dde-50f5-4890-9f08-693dafb3593d))
     (pin "2" (uuid ada71486-504d-4044-98fe-bbfc6730a59e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D8") (unit 1)
         )
@@ -8231,7 +8281,7 @@
     )
     (pin "1" (uuid 3bea952f-c599-40b8-b358-ba575231bfd4))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR026") (unit 1)
         )
@@ -8263,7 +8313,7 @@
     (pin "1" (uuid a0403eed-50c2-4b7a-8758-b8c6c924cc65))
     (pin "2" (uuid 96ab1dc7-9d36-49c9-a777-4505a170b295))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D45") (unit 1)
         )
@@ -8289,7 +8339,7 @@
     (pin "1" (uuid 873428b9-6c0c-48f7-bafb-7ac73fe83ace))
     (pin "2" (uuid de7c552f-a9e5-49db-87be-abddefe46d64))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX10") (unit 1)
         )
@@ -8321,7 +8371,7 @@
     (pin "1" (uuid 5f90e59b-3a8b-4611-88fd-84b5079027b8))
     (pin "2" (uuid 85647acc-a3fc-4edb-968c-f10beae9d6b9))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D9") (unit 1)
         )
@@ -8347,7 +8397,7 @@
     (pin "1" (uuid 30fe5ec5-ea9b-45aa-b9f8-a94f289e6ae7))
     (pin "2" (uuid 9c2de1a4-fcf8-481c-a45c-395fead551de))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX73") (unit 1)
         )
@@ -8379,7 +8429,7 @@
     (pin "1" (uuid ad539ac2-90cc-416d-af16-563468b16682))
     (pin "2" (uuid 6730feff-999b-4303-99aa-fb666f898d54))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D18") (unit 1)
         )
@@ -8405,7 +8455,7 @@
     (pin "1" (uuid d0dbfa36-ca81-406e-a25b-f911e96dd7e3))
     (pin "2" (uuid 8065b384-d994-4d9d-8cd8-77327efd4a3c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C14") (unit 1)
         )
@@ -8435,7 +8485,7 @@
           (reference "#PWR020") (unit 1)
         )
       )
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR08") (unit 1)
         )
@@ -8467,7 +8517,7 @@
     (pin "1" (uuid f471d667-43bd-4e11-90fc-fded76e191a4))
     (pin "2" (uuid 5724b2f1-7f96-40fe-ad6d-237f974be71f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D64") (unit 1)
         )
@@ -8499,7 +8549,7 @@
     (pin "1" (uuid c0da2a13-9661-4e41-9062-5ff38494ab0b))
     (pin "2" (uuid c9c73216-df2c-4465-bf38-48258aa2233b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D20") (unit 1)
         )
@@ -8525,7 +8575,7 @@
     (pin "1" (uuid 5c7f7424-2583-417c-be4e-946e002acbc1))
     (pin "2" (uuid ee24a5f0-a4f3-4d24-9ced-6c23860a438a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX57") (unit 1)
         )
@@ -8550,7 +8600,7 @@
     )
     (pin "1" (uuid 937b38fb-66f6-4616-8753-90361d007e74))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR018") (unit 1)
         )
@@ -8582,7 +8632,7 @@
     (pin "1" (uuid 88642d23-d344-4265-86f3-bbcf56c616ac))
     (pin "2" (uuid 9fbcae94-22f4-4431-b329-54e67ab7bb00))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D67") (unit 1)
         )
@@ -8614,7 +8664,7 @@
     (pin "1" (uuid 73f325a9-1135-4685-b6c0-9a3d7e73eb5d))
     (pin "2" (uuid 0273487f-be69-4c3c-8909-4aeec828398b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D35") (unit 1)
         )
@@ -8640,7 +8690,7 @@
     (pin "1" (uuid b48d1b44-d18a-4ba4-bfd8-7fdc6d2fba1e))
     (pin "2" (uuid ed4485d1-6ab3-415b-8a55-9390f883baf0))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX77") (unit 1)
         )
@@ -8666,7 +8716,7 @@
     (pin "1" (uuid 4ef674be-b34a-4834-a3f0-de89efae12ff))
     (pin "2" (uuid 86142ac1-d403-469f-8105-26f439420893))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX99") (unit 1)
         )
@@ -8692,7 +8742,7 @@
     (pin "1" (uuid 8b68e599-b55d-4960-8eb1-a01dd03c7b8a))
     (pin "2" (uuid a9fbce88-a1c4-4861-94a2-48d4e33f52a5))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX21") (unit 1)
         )
@@ -8718,7 +8768,7 @@
     (pin "1" (uuid 570206be-34b6-46fb-ade9-b267cd07fa65))
     (pin "2" (uuid ad8abc6f-a5ff-49ff-9846-231846331981))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R4") (unit 1)
         )
@@ -8744,7 +8794,7 @@
     (pin "1" (uuid 0056a483-20f7-4a7e-966c-c75c589f6b2b))
     (pin "2" (uuid 0ab5d0aa-b6c9-4074-92c8-e7f0155a2d40))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX14") (unit 1)
         )
@@ -8770,7 +8820,7 @@
     (pin "1" (uuid 84375942-d683-48f7-ba10-93a07278efc4))
     (pin "2" (uuid 008811a7-ce53-4690-8733-fbae753bc825))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX36") (unit 1)
         )
@@ -8802,7 +8852,7 @@
     (pin "1" (uuid 934d4cff-eec6-49d9-8e1d-c3db39b1f231))
     (pin "2" (uuid 4f9ac11b-51f0-4a13-860e-7916dceba16c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D90") (unit 1)
         )
@@ -8828,7 +8878,7 @@
     (pin "1" (uuid 99c4ceb0-6de3-4729-bfee-6d894dde53c5))
     (pin "2" (uuid 116efc07-dea7-4aef-9e89-608ad861f50b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX97") (unit 1)
         )
@@ -8854,7 +8904,7 @@
     (pin "1" (uuid 64af8128-8a4a-4b6b-b998-e3e4484bc78f))
     (pin "2" (uuid 23e7c521-55ef-47fb-a048-68b938562803))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX112") (unit 1)
         )
@@ -8880,7 +8930,7 @@
     (pin "1" (uuid 14dc9203-d99d-4824-b3f0-22e90f927012))
     (pin "2" (uuid de226b17-448c-48ec-b133-5eecf930aaa3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX51") (unit 1)
         )
@@ -8912,7 +8962,7 @@
     (pin "1" (uuid a03df6ba-4c48-4b0a-9693-28f52f52dce7))
     (pin "2" (uuid df1166f0-0f31-4a1b-bdf6-7af76245c3da))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D60") (unit 1)
         )
@@ -8938,7 +8988,7 @@
     (pin "1" (uuid 29cde7cb-f942-4d06-a3f8-b2c42d18dc53))
     (pin "2" (uuid 3f4b0b85-c04b-432e-847c-ae103ff02df9))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX2") (unit 1)
         )
@@ -8964,7 +9014,7 @@
     (pin "1" (uuid 76b7110b-b974-4eff-ad51-54cdbfccbd4e))
     (pin "2" (uuid 1b76609b-cbdd-49c2-8f63-a3b9539c7877))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C15") (unit 1)
         )
@@ -8989,7 +9039,7 @@
     )
     (pin "1" (uuid 96322ea1-f448-42f5-b44f-e65a17ca74e3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR014") (unit 1)
         )
@@ -9021,7 +9071,7 @@
     (pin "1" (uuid 257c6a54-203d-4e65-ab91-9331a18941b2))
     (pin "2" (uuid 5764d8c0-568a-4bbd-ad46-6eab71e76f60))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D36") (unit 1)
         )
@@ -9047,9 +9097,35 @@
     (pin "1" (uuid 18b34c13-7d43-4c93-a999-fdb50d655f46))
     (pin "2" (uuid 692c90a0-23c8-4b42-b5bb-86a8e67d0ac8))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX48") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 427.99 180.34 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 85bdacec-0c2c-4990-aa3f-1156e3641b1b)
+    (property "Reference" "MX113" (at 433.07 172.72 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 436.88 175.26 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 427.99 180.34 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 427.99 180.34 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid adfadb40-7c14-4769-bb05-1620c8767666))
+    (pin "2" (uuid e18a53d2-5801-4ec2-9b04-815c351aacb4))
+    (instances
+      (project "Gear80-A_1.0mm"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX113") (unit 1)
         )
       )
     )
@@ -9073,7 +9149,7 @@
     (pin "1" (uuid 1a1daf2a-4f49-4441-b5d6-b9664b489ded))
     (pin "2" (uuid 3c39e072-400e-464c-9b52-2f36ef4d89c6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX90") (unit 1)
         )
@@ -9099,7 +9175,7 @@
     (pin "1" (uuid 611f5ca9-ee40-48fa-9841-0618f069d551))
     (pin "2" (uuid fb944643-7b1e-4db5-91b0-1ea241b9cab3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX109") (unit 1)
         )
@@ -9125,7 +9201,7 @@
     (pin "1" (uuid c407c7e6-ab13-4557-a73d-70288f556e02))
     (pin "2" (uuid 6ff39e1c-dfeb-4c6f-9199-4b67fd6a0c54))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX9") (unit 1)
         )
@@ -9157,7 +9233,7 @@
     (pin "1" (uuid 775268c5-06dc-4748-b0a2-65f131657a74))
     (pin "2" (uuid a94e9247-2efe-4692-9fab-11a3759726af))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D51") (unit 1)
         )
@@ -9189,7 +9265,7 @@
     (pin "1" (uuid 727cd443-c2ed-4342-a206-adca397d5654))
     (pin "2" (uuid ee501661-5a7b-47c4-9907-696862c16c6f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D4") (unit 1)
         )
@@ -9215,7 +9291,7 @@
     (pin "1" (uuid a12713b6-2ee9-4cd3-a04f-e5dd394e2ec2))
     (pin "2" (uuid f8aec7f7-11b6-4250-847e-acb10a6b098a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX18") (unit 1)
         )
@@ -9240,7 +9316,7 @@
     )
     (pin "1" (uuid 4f245943-1b72-46d8-a4d4-d201859fa861))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR024") (unit 1)
         )
@@ -9248,13 +9324,13 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 462.28 180.34 180) (unit 1)
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 462.28 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b73ad4b-ff09-4a5c-86df-4feebddda515)
-    (property "Reference" "MX67" (at 443.23 172.72 0)
+    (property "Reference" "MX67" (at 481.33 187.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 458.47 173.99 0)
+    (property "Value" "MX_SW_solder" (at 466.09 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 462.28 180.34 0)
@@ -9266,7 +9342,7 @@
     (pin "1" (uuid 6e109249-4615-4f7b-b4c7-d648caae483b))
     (pin "2" (uuid b7555a2c-3bcd-476d-a211-845e088dbf6b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX67") (unit 1)
         )
@@ -9299,7 +9375,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J1") (unit 1)
         )
@@ -9325,7 +9401,7 @@
     (pin "1" (uuid 59ce541c-e455-46c2-a179-f8897f685c7b))
     (pin "2" (uuid 878cd680-b135-4236-a1c4-240c5048acd5))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX100") (unit 1)
         )
@@ -9351,9 +9427,35 @@
     (pin "1" (uuid 79ea4cb7-1fcb-46c9-8f50-d8cc33ca102d))
     (pin "2" (uuid 05442c47-80db-4bbe-95c4-15676dfee6eb))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX106") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 490.22 180.34 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 8eec8905-f8d5-46df-8b32-aab44f50cb25)
+    (property "Reference" "MX114" (at 486.41 184.15 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 486.41 186.69 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 490.22 180.34 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 490.22 180.34 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fc75e334-b535-468a-a73e-908822e5dd17))
+    (pin "2" (uuid 3cbc91e6-094d-46d3-bd46-19a0c09908ef))
+    (instances
+      (project "Gear80-A_1.0mm"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX114") (unit 1)
         )
       )
     )
@@ -9377,7 +9479,7 @@
     (pin "1" (uuid 7bfea6b3-7584-41e7-9509-985561a54021))
     (pin "2" (uuid 5095a23e-8a06-4ce5-bf10-863b3f644490))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX93") (unit 1)
         )
@@ -9409,7 +9511,7 @@
     (pin "1" (uuid 89a1f99e-c3b0-4330-a0d4-2dc2c3450fec))
     (pin "2" (uuid 36325e84-4aa5-4081-b7e8-974ce8bfa992))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D27") (unit 1)
         )
@@ -9435,7 +9537,7 @@
     (pin "1" (uuid 1287b63d-47ca-49f2-acf7-0734541105b6))
     (pin "2" (uuid 74f45787-4017-4b91-8a89-d445d6490c5d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX56") (unit 1)
         )
@@ -9467,7 +9569,7 @@
     (pin "1" (uuid 7fb08574-f962-4109-9adf-49bb676f9cbb))
     (pin "2" (uuid 026f8935-5998-4826-a91e-b115b09a62ae))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D6") (unit 1)
         )
@@ -9499,7 +9601,7 @@
     (pin "1" (uuid 6b89c141-486a-48ae-b09a-6cf712501626))
     (pin "2" (uuid 1eaeb8bb-df31-45b8-994c-039371910e3b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D68") (unit 1)
         )
@@ -9525,7 +9627,7 @@
     (pin "1" (uuid 6334f22c-1044-4a97-ba25-0e862563f1fd))
     (pin "2" (uuid f08ad197-9bc9-47a2-b3be-fe3c1729a741))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX1") (unit 1)
         )
@@ -9533,25 +9635,25 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 467.36 180.34 0) (unit 1)
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 466.09 180.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 944f3355-3dc9-43d2-abe5-8b94076b05cd)
-    (property "Reference" "MX76" (at 469.9 172.72 0)
+    (property "Reference" "MX76" (at 468.63 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 472.44 175.26 0)
+    (property "Value" "MX_SW_solder" (at 471.17 175.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 467.36 180.34 0)
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 466.09 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 467.36 180.34 0)
+    (property "Datasheet" "~" (at 466.09 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ce9e9ed9-eb94-4760-893c-a6c46640561d))
     (pin "2" (uuid eeb53102-a164-44bd-9e51-91529d8401cb))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX76") (unit 1)
         )
@@ -9583,7 +9685,7 @@
     (pin "1" (uuid 23f05c60-11c0-4321-8a6d-7f67048f1c5f))
     (pin "2" (uuid 393bf1df-8af6-4b74-94d6-77f0f75447ba))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D26") (unit 1)
         )
@@ -9615,7 +9717,7 @@
     (pin "1" (uuid f06b8de8-580d-4244-a106-6da348100808))
     (pin "2" (uuid 0b9628ad-4fec-43c2-bd14-ebc3ef150518))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D28") (unit 1)
         )
@@ -9647,7 +9749,7 @@
     (pin "1" (uuid 1be42488-d04f-4e2b-8a4a-098b3597fd06))
     (pin "2" (uuid 08a528d8-c5d7-4718-a59f-f33875618fd3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D58") (unit 1)
         )
@@ -9681,7 +9783,7 @@
     (pin "8" (uuid f834a5e6-ce8d-40d9-a7e6-2e7457179609))
     (pin "9" (uuid 4ee60c27-a871-47f5-99bd-4b2345f8d076))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "J4") (unit 1)
         )
@@ -9707,7 +9809,7 @@
     (pin "1" (uuid 2b91abd8-de5e-4a63-98b3-9e0a03249064))
     (pin "2" (uuid 6ca433cc-edd3-4cff-8f49-8c290f82eb17))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX104") (unit 1)
         )
@@ -9739,7 +9841,7 @@
     (pin "1" (uuid 1005dda6-7015-49f4-8ed3-45e4a67fac7a))
     (pin "2" (uuid c0e454df-503a-42bb-876f-2d5ac4134f4a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D34") (unit 1)
         )
@@ -9771,7 +9873,7 @@
     (pin "1" (uuid 8e10adc8-8c8f-42e1-844d-c86f3e67af1c))
     (pin "2" (uuid a6eddfe1-cfbd-474f-8ecb-90c7b6cd3ad5))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D83") (unit 1)
         )
@@ -9797,7 +9899,7 @@
     (pin "1" (uuid 1838a3f0-ea07-418b-9048-08ee5754f7d4))
     (pin "2" (uuid 8beb03b8-1612-4398-90a4-7d92904a9db7))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX35") (unit 1)
         )
@@ -9823,7 +9925,7 @@
     (pin "1" (uuid 908de180-62ff-4d70-923d-dee46418528f))
     (pin "2" (uuid e5e0a2ef-e71e-4176-89bf-39d603c63e13))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX8") (unit 1)
         )
@@ -9849,7 +9951,7 @@
     (pin "1" (uuid 4ffe7290-9b97-4f63-8b27-39ddc7f72514))
     (pin "2" (uuid ef9f8fc5-eea2-4d79-95df-9646467b9b18))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX79") (unit 1)
         )
@@ -9875,7 +9977,7 @@
     (pin "1" (uuid 8a09cd64-4ccd-4c50-96a5-13ac5fd93eb1))
     (pin "2" (uuid feadf09f-3728-4a02-aa55-0fa0f8e9331f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C5") (unit 1)
         )
@@ -9901,7 +10003,7 @@
     (pin "1" (uuid af0c95fe-b3ef-4532-9c60-071f90d33285))
     (pin "2" (uuid 89ad12ff-0918-42f8-941a-135191ac951b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX91") (unit 1)
         )
@@ -9933,7 +10035,7 @@
     (pin "1" (uuid 68720f35-8fe9-49c5-9696-0ac25ef77948))
     (pin "2" (uuid f1426dd1-578a-4644-97d6-41e85f81d1f6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D66") (unit 1)
         )
@@ -9965,7 +10067,7 @@
     (pin "1" (uuid d2661c0d-4454-4aca-bdf8-2af2f661f77a))
     (pin "2" (uuid 7b86ab2d-2c6c-4ddd-88bc-c9b5b5c5ce40))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D87") (unit 1)
         )
@@ -9991,7 +10093,7 @@
     (pin "1" (uuid 290eec54-691e-4bcb-8056-beaa662d8419))
     (pin "2" (uuid a6485e35-60c1-41b3-86b4-dae449c1b155))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX74") (unit 1)
         )
@@ -10017,7 +10119,7 @@
     (pin "1" (uuid 4e14e847-5382-45d2-86cd-d38933a03d28))
     (pin "2" (uuid 168d380d-cd01-47db-8edf-999b38a04ef2))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX16") (unit 1)
         )
@@ -10043,7 +10145,7 @@
     (pin "1" (uuid c5e9f630-c1b2-435f-968c-f813ee897724))
     (pin "2" (uuid 167f5771-82a0-4a21-8347-2945c1cb3ffc))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX6") (unit 1)
         )
@@ -10069,7 +10171,7 @@
     (pin "1" (uuid bb1ace88-7587-461b-94ae-e7c4f32bca39))
     (pin "2" (uuid 0ed9ec84-5c74-4654-944e-c800c1f0562e))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX75") (unit 1)
         )
@@ -10095,7 +10197,7 @@
     (pin "1" (uuid 4ccfceb5-0499-4c91-a405-ac62b28eb2d8))
     (pin "2" (uuid 742c6858-4a36-45a4-99cd-b5a2af7d51bf))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C11") (unit 1)
         )
@@ -10126,7 +10228,7 @@
     (pin "1" (uuid 424d27d3-9575-4bd8-88ea-abcce1eb1091))
     (pin "2" (uuid f92ad044-0eb8-4a81-b3ad-e48c3e350800))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX55") (unit 1)
         )
@@ -10151,7 +10253,7 @@
     )
     (pin "1" (uuid 2ba26b44-2bdb-465f-bf5c-ec5b79af0c34))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR027") (unit 1)
         )
@@ -10175,7 +10277,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S6") (unit 1)
         )
@@ -10201,7 +10303,7 @@
     (pin "1" (uuid dbe9d289-ad2d-435f-83b9-ec438994030e))
     (pin "2" (uuid 3ddfe564-5d5d-43b8-ab66-85e5718d8b79))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C6") (unit 1)
         )
@@ -10233,7 +10335,7 @@
     (pin "1" (uuid 153bfbbe-aea3-4d10-b395-c85f6ca7221d))
     (pin "2" (uuid 27c444f2-a2c0-4204-b7cc-990fd7ae8548))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D42") (unit 1)
         )
@@ -10265,7 +10367,7 @@
     (pin "1" (uuid f80db653-f56b-4b7f-b9c3-84bc1d7ec16b))
     (pin "2" (uuid 911ee4f0-e4e7-4d18-8916-c75d476f3493))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D43") (unit 1)
         )
@@ -10289,7 +10391,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S4") (unit 1)
         )
@@ -10315,9 +10417,35 @@
     (pin "1" (uuid 2f4195c7-48c5-4037-9423-f937cf7098b7))
     (pin "2" (uuid 2fafcac8-1ce1-4fb9-8ef5-0ce4fdec2f44))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX43") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 471.17 180.34 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid aa697d93-69c7-49f7-89a1-ef35dbdd8998)
+    (property "Reference" "MX115" (at 466.09 187.96 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MX_SW_solder" (at 462.28 185.42 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1u" (at 471.17 180.34 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 471.17 180.34 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid c61d6285-0e83-4aa6-8c62-fd4b24e4473e))
+    (pin "2" (uuid d7898e40-ed55-4f86-a773-1a1c840c3a3e))
+    (instances
+      (project "Gear80-A_1.0mm"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "MX115") (unit 1)
         )
       )
     )
@@ -10340,7 +10468,7 @@
     )
     (pin "1" (uuid fec3c7ea-3167-4b3e-ad47-4c430813a8ab))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR016") (unit 1)
         )
@@ -10372,7 +10500,7 @@
     (pin "1" (uuid a91d9460-b557-4e23-a30a-e66919dbf752))
     (pin "2" (uuid 79f8a56e-8678-4d12-9928-953b15da3cdd))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D29") (unit 1)
         )
@@ -10398,7 +10526,7 @@
     (pin "1" (uuid 798185bd-241e-480b-a6cd-366450b4215e))
     (pin "2" (uuid 487b3fab-9b05-46da-a8da-8c9b110a5e1a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R5") (unit 1)
         )
@@ -10424,7 +10552,7 @@
     (pin "1" (uuid d5320c89-c2eb-4fe2-befe-3feb8e06d90d))
     (pin "2" (uuid 29c82ec1-71c5-429e-aac2-5b2c50851a6d))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX5") (unit 1)
         )
@@ -10449,7 +10577,7 @@
     )
     (pin "1" (uuid 6aaa4345-9d7e-4f2d-9d62-eaf5eae235f4))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR06") (unit 1)
         )
@@ -10481,7 +10609,7 @@
     (pin "1" (uuid 9cac5e12-9ffd-4cb3-817a-f1aa76a05e30))
     (pin "2" (uuid 5b39f430-158e-4387-9f45-fdde22612512))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D74") (unit 1)
         )
@@ -10507,7 +10635,7 @@
     (pin "1" (uuid 79c38b2f-103c-44fc-9ff2-f7504ca6ce75))
     (pin "2" (uuid 3bc0b306-0d3c-4a57-91a7-65faa9402ceb))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX58") (unit 1)
         )
@@ -10532,7 +10660,7 @@
     )
     (pin "1" (uuid b7507ddd-6c7c-40a3-bf07-63e130c0bc9c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR022") (unit 1)
         )
@@ -10558,7 +10686,7 @@
     (pin "1" (uuid bcf4a2fa-2d16-4189-83e7-05d8e7f9f24d))
     (pin "2" (uuid cdc35229-1ded-4515-a45a-34026fe061c9))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C16") (unit 1)
         )
@@ -10590,7 +10718,7 @@
     (pin "1" (uuid faa64b7e-82e6-4bc5-b6da-bf36ca7df7e2))
     (pin "2" (uuid 63786cfb-ca70-4b5c-8022-22dd9ab46ccf))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D14") (unit 1)
         )
@@ -10616,7 +10744,7 @@
     (pin "1" (uuid 5cce4744-405a-422e-88c2-b9d1d0d47c10))
     (pin "2" (uuid a156f0cc-8bbc-451d-9eb8-4eeb3c0af6fa))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C7") (unit 1)
         )
@@ -10648,7 +10776,7 @@
     (pin "1" (uuid 869b438b-cb71-4f2f-9347-4a417154012c))
     (pin "2" (uuid 4cf183dc-a958-46a3-82c8-076d1a0c21c7))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D13") (unit 1)
         )
@@ -10680,7 +10808,7 @@
     (pin "1" (uuid 1f531e01-9e76-4e0c-b46f-2bc548559cbd))
     (pin "2" (uuid c9e09eaf-19af-4240-acd6-e69150065aa0))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D10") (unit 1)
         )
@@ -10706,7 +10834,7 @@
     (pin "1" (uuid 475aacdf-caea-4c52-895c-0d1ee8a6eb67))
     (pin "2" (uuid 4963cd60-5373-4e97-b644-2a5c58153c1c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "RESET1") (unit 1)
         )
@@ -10743,7 +10871,7 @@
     (pin "1" (uuid 180b4bf9-5f92-4e1c-bee5-6dfe0fa6b4e9))
     (pin "2" (uuid 6cf2ddfc-676d-4938-ac06-1fcd5b426b42))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D21") (unit 1)
         )
@@ -10775,7 +10903,7 @@
     (pin "1" (uuid 95f7f93b-50d8-4da4-9581-2bc3d550cf87))
     (pin "2" (uuid 650f1b1f-e9aa-45e8-bf9c-f6eceed98db9))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D50") (unit 1)
         )
@@ -10801,7 +10929,7 @@
     (pin "1" (uuid 3a52d266-cba6-4e98-b52c-09179cecf85d))
     (pin "2" (uuid 503981ff-6a7c-4a84-863c-b310773392cb))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C10") (unit 1)
         )
@@ -10825,7 +10953,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S8") (unit 1)
         )
@@ -10857,7 +10985,7 @@
     (pin "1" (uuid f428e207-f412-40c8-afcd-45ba5f7965fb))
     (pin "2" (uuid 05bc038d-e2ea-4102-99cb-ca9a746d6acb))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D5") (unit 1)
         )
@@ -10883,7 +11011,7 @@
     (pin "1" (uuid c75ad33d-f453-492f-abc3-16bca25d9148))
     (pin "2" (uuid be48728e-1f45-4b6e-bbc4-29b1c0f7ae1f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX23") (unit 1)
         )
@@ -10909,7 +11037,7 @@
     (pin "1" (uuid d7fe8d0f-2a62-454b-ad33-9538d91924c1))
     (pin "2" (uuid 1bc8c37f-0190-4553-a318-ad8ab3167410))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R8") (unit 1)
         )
@@ -10935,7 +11063,7 @@
     (pin "1" (uuid 37fbf959-63ba-4316-ae81-5984d8c34736))
     (pin "2" (uuid 43438da3-7315-4c45-9d36-4fce69f686d7))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX49") (unit 1)
         )
@@ -10967,7 +11095,7 @@
     (pin "1" (uuid 02bc9161-c0b1-4d91-ad82-ad6ab23a37c3))
     (pin "2" (uuid 63d927d9-8531-4886-9757-7254985e6c51))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D41") (unit 1)
         )
@@ -10993,7 +11121,7 @@
     (pin "1" (uuid 4c785907-6382-410d-9e2e-230f6d42c4f4))
     (pin "2" (uuid 74c8ea68-9b9e-4dfe-b8e1-91cf8ef40594))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX26") (unit 1)
         )
@@ -11019,7 +11147,7 @@
     (pin "1" (uuid 4ef6c026-ca48-4396-9d1d-3005aa26c2ad))
     (pin "2" (uuid 313c059a-3065-46bc-9c7e-f9812f3f0efe))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX41") (unit 1)
         )
@@ -11051,7 +11179,7 @@
     (pin "1" (uuid 024cd6b0-16a3-4f27-8949-2fedb67d0d01))
     (pin "2" (uuid 2043f0f0-8022-4f90-835b-8aea92129867))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D84") (unit 1)
         )
@@ -11077,7 +11205,7 @@
     (pin "1" (uuid 23ceed85-a2eb-410a-b168-c0ab779df0d8))
     (pin "2" (uuid 4fca2012-5666-47d3-b700-c8963b6e9019))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX72") (unit 1)
         )
@@ -11103,7 +11231,7 @@
     (pin "1" (uuid 026c3e43-e972-4900-a7b6-dcb4dbc73236))
     (pin "2" (uuid 37aa5ebf-9d9d-4746-9f0b-37707070b145))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX54") (unit 1)
         )
@@ -11129,7 +11257,7 @@
     (pin "1" (uuid a38dc765-e04b-43c5-85eb-aaeabc77e5de))
     (pin "2" (uuid 79f3336a-5172-4380-bfec-9db562f7e61b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX7") (unit 1)
         )
@@ -11155,7 +11283,7 @@
     (pin "1" (uuid 6a0b7278-2d1d-45a6-b7a9-3b910bc30834))
     (pin "2" (uuid 458d05ff-3436-47c8-a49e-87cf797a6320))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX42") (unit 1)
         )
@@ -11179,7 +11307,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S1") (unit 1)
         )
@@ -11211,7 +11339,7 @@
     (pin "1" (uuid 36fece50-f35f-422e-8e21-86cfb025dfeb))
     (pin "2" (uuid 4c4dacbd-5b0b-4ead-89e9-ca4def1f8d38))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D37") (unit 1)
         )
@@ -11243,7 +11371,7 @@
     (pin "1" (uuid 1b0f7627-66e2-485a-9869-899f89556718))
     (pin "2" (uuid 0b7f6ae9-9e23-4b41-ae80-8fef0599b048))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D85") (unit 1)
         )
@@ -11268,7 +11396,7 @@
     )
     (pin "1" (uuid 601f17de-4a5c-4e27-adcc-ce8c3d3de886))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR028") (unit 1)
         )
@@ -11294,7 +11422,7 @@
     (pin "1" (uuid 777c1ae9-b6a6-43d7-80b8-30f01c1b1fa0))
     (pin "2" (uuid 77c83997-8af0-4acd-90a5-b0ad001487bd))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX98") (unit 1)
         )
@@ -11326,7 +11454,7 @@
     (pin "1" (uuid 43349a1b-950f-487b-89ac-6e9b9f4e0453))
     (pin "2" (uuid dcd44a0b-8b1d-4046-8e30-a4856855af1b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D56") (unit 1)
         )
@@ -11352,7 +11480,7 @@
     (pin "1" (uuid 7dd89efe-35e4-480a-b136-28a6eec989c7))
     (pin "2" (uuid 08a7055a-7e74-41dc-bc7e-97f7df238a11))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R7") (unit 1)
         )
@@ -11384,7 +11512,7 @@
     (pin "1" (uuid f1fd8fb1-fc37-4934-8a42-13cb07899004))
     (pin "2" (uuid f0410262-d414-4a16-a5f0-31a04a9a7bf7))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D79") (unit 1)
         )
@@ -11416,7 +11544,7 @@
     (pin "1" (uuid 38b329ab-5230-4cd7-b684-4d2f42ad70b4))
     (pin "2" (uuid c30aca21-02ab-4e0c-a652-314eca2e2613))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D33") (unit 1)
         )
@@ -11442,7 +11570,7 @@
     (pin "1" (uuid ea3e422d-cb92-45e8-ac68-f84923e35b61))
     (pin "2" (uuid 0e9faf32-401a-44ea-bbbb-902a8490b744))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "BOOT1") (unit 1)
         )
@@ -11471,7 +11599,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S2") (unit 1)
         )
@@ -11497,7 +11625,7 @@
     (pin "1" (uuid 5baf1788-f59b-4ed9-a143-b63a4c6c75ee))
     (pin "2" (uuid 5e8bdd1d-7060-4c00-adf9-dbb1b9ede0ed))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX44") (unit 1)
         )
@@ -11505,25 +11633,25 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 492.76 180.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 495.3 180.34 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid d4d8c2bd-8014-4b8a-af94-ee7b89bbcb04)
-    (property "Reference" "MX68" (at 492.76 172.72 0)
+    (property "Reference" "MX68" (at 495.3 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MX_SW_solder" (at 492.76 175.26 0)
+    (property "Value" "MX_SW_solder" (at 495.3 175.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 492.76 180.34 0)
+    (property "Footprint" "PCM_marbastlib-mx:SW_MX_1.25u" (at 495.3 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 492.76 180.34 0)
+    (property "Datasheet" "~" (at 495.3 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 188a5e7d-6d93-4409-ac21-988cf38a7332))
-    (pin "2" (uuid 5006926b-39a5-40b9-ac9c-776a036362d7))
+    (pin "1" (uuid 6b6d9996-52b8-4029-8803-68687b2cc9e8))
+    (pin "2" (uuid 85d3f531-01db-4f05-86e3-5b7314eaf38f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX68") (unit 1)
         )
@@ -11549,7 +11677,7 @@
     (pin "1" (uuid aeeac3fd-b3f9-4f9c-9d32-e4f40bac2f58))
     (pin "2" (uuid 54591d08-8384-43b3-bd54-50a70678cdd3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX94") (unit 1)
         )
@@ -11581,7 +11709,7 @@
     (pin "1" (uuid d21e2158-c4d9-4fdb-956c-d6445db7f59c))
     (pin "2" (uuid e7dddb9c-a0ac-471f-80fb-9fbd09d118e1))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D70") (unit 1)
         )
@@ -11607,7 +11735,7 @@
     (pin "1" (uuid 0e8b0fdf-6219-4fce-b37f-bbef2216e4e6))
     (pin "2" (uuid e5ee335b-14e9-4f6e-a0e3-1f63bfbb7fc6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX87") (unit 1)
         )
@@ -11633,7 +11761,7 @@
     (pin "1" (uuid d78fb947-fc32-47f5-9fa5-29b56d10a95c))
     (pin "2" (uuid 8e3b3d6b-44fe-418e-8112-3d43123af3f6))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX88") (unit 1)
         )
@@ -11665,7 +11793,7 @@
     (pin "1" (uuid d8595731-fa6f-4392-88fb-27e344d9afc7))
     (pin "2" (uuid a8839aa1-55de-410e-8459-3f6333a46d9f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D75") (unit 1)
         )
@@ -11690,7 +11818,7 @@
     )
     (pin "1" (uuid a44924d8-0bbd-4ed4-b05b-60dddaa896de))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR021") (unit 1)
         )
@@ -11716,7 +11844,7 @@
     (pin "1" (uuid 1c4ca52c-0516-4cdc-b88d-4fda6d598c86))
     (pin "2" (uuid d675157a-e5cc-40fc-aa10-db87953c9108))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX12") (unit 1)
         )
@@ -11742,7 +11870,7 @@
     (pin "1" (uuid e1bdc5b3-de7d-4e0f-b51c-a64fd0786480))
     (pin "2" (uuid 169058dd-a5bc-4432-8a81-dbbd81f77e38))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX33") (unit 1)
         )
@@ -11774,7 +11902,7 @@
     (pin "1" (uuid 2bd7c005-f55e-4625-82cb-8b55083881d7))
     (pin "2" (uuid 3363ee6d-e8fc-4ef6-8064-3343649c71ff))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D53") (unit 1)
         )
@@ -11806,7 +11934,7 @@
     (pin "1" (uuid f317ec2e-eab3-4627-b131-b74e2bc94d20))
     (pin "2" (uuid e3fcf601-3db5-43cf-8add-2198d03e7774))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D61") (unit 1)
         )
@@ -11831,7 +11959,7 @@
     )
     (pin "1" (uuid 0f974b9c-8814-4173-bf1f-b5161273000a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR03") (unit 1)
         )
@@ -11857,7 +11985,7 @@
     (pin "1" (uuid 9f7aacd7-8af0-4158-b8b8-eb47e6d9199f))
     (pin "2" (uuid 5801306a-9c9c-4628-ab97-182b83f79979))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "C2") (unit 1)
         )
@@ -11883,7 +12011,7 @@
     (pin "1" (uuid 1e8d590c-4996-4986-8dac-cce9103c0959))
     (pin "2" (uuid 9cf09c57-afd9-4fa2-b0f9-f4cee5f6de6c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX63") (unit 1)
         )
@@ -11915,7 +12043,7 @@
     (pin "1" (uuid 2bd936df-9dfc-4c83-a6ce-af6f919ea1ee))
     (pin "2" (uuid 71f6dad9-b4cc-4759-8384-240c0e1e14a1))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D59") (unit 1)
         )
@@ -11947,7 +12075,7 @@
     (pin "1" (uuid 6de03be6-acdd-4bfa-a994-af026f613f8a))
     (pin "2" (uuid 275aad20-9850-4749-bf4b-3acfdc401766))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D86") (unit 1)
         )
@@ -11973,7 +12101,7 @@
     (pin "1" (uuid d4a1b67c-ce27-4f96-a974-b3dd8b42382e))
     (pin "2" (uuid 1822c12b-40e0-4558-b9f8-d37b2ad4d919))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX17") (unit 1)
         )
@@ -11997,7 +12125,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S10") (unit 1)
         )
@@ -12022,7 +12150,7 @@
     )
     (pin "1" (uuid 0a42543d-534f-4800-bdd8-7e7115f7c23a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "#PWR04") (unit 1)
         )
@@ -12048,7 +12176,7 @@
     (pin "1" (uuid 4856cac9-f6d1-40f4-9fcb-8b433a605a33))
     (pin "2" (uuid 2d7414ff-8697-466d-8ed3-144c59dd8c89))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX110") (unit 1)
         )
@@ -12080,7 +12208,7 @@
     (pin "1" (uuid d3482d97-58de-4c95-8762-603f579b6d2d))
     (pin "2" (uuid 7daf6354-d454-4cbd-8b3e-9144d2f55691))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D2") (unit 1)
         )
@@ -12106,7 +12234,7 @@
     (pin "1" (uuid 00ef8a25-6005-4855-8296-99ba45f17edc))
     (pin "2" (uuid d44b2bc4-7a7c-4bf6-a90f-fbf8f2510181))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX103") (unit 1)
         )
@@ -12132,7 +12260,7 @@
     (pin "1" (uuid c259013e-8c2e-4fdb-8f76-6974c8466778))
     (pin "2" (uuid 1cc01934-a3de-4c3c-b83b-61ede72f7495))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX78") (unit 1)
         )
@@ -12156,7 +12284,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "S9") (unit 1)
         )
@@ -12188,7 +12316,7 @@
     (pin "1" (uuid e3e854fe-7cd8-4d3b-8dcd-55c54f62b213))
     (pin "2" (uuid 7849e184-4177-4603-8065-9a3fd496cd75))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D23") (unit 1)
         )
@@ -12214,7 +12342,7 @@
     (pin "1" (uuid 94d4cf61-a61e-466b-b2d9-381463563d23))
     (pin "2" (uuid e391d169-3ba7-4d62-8cbf-38307faeef6f))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX81") (unit 1)
         )
@@ -12240,7 +12368,7 @@
     (pin "1" (uuid 4b247a3d-7447-4eab-8bec-e364a52520eb))
     (pin "2" (uuid 7f7aa4de-f885-4570-8370-1d7d8bcbfd09))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX50") (unit 1)
         )
@@ -12266,7 +12394,7 @@
     (pin "1" (uuid 90347a24-3a04-4192-a143-7ca3e3960553))
     (pin "2" (uuid 33db22dc-ab62-45e2-8123-c34db2417a0c))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX62") (unit 1)
         )
@@ -12298,7 +12426,7 @@
     (pin "1" (uuid 4a5c0e6e-3c92-4969-a95a-4280b16e15e2))
     (pin "2" (uuid f7f2a414-1d94-46d6-8e22-df86b0557931))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D12") (unit 1)
         )
@@ -12330,7 +12458,7 @@
     (pin "1" (uuid f4fea70a-ef97-4f9e-8266-5b8839da9e6e))
     (pin "2" (uuid 7bd0a323-d173-49f6-9627-4539800e4127))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D52") (unit 1)
         )
@@ -12356,7 +12484,7 @@
     (pin "1" (uuid ce7c825e-fc10-4107-b9bc-aa4a833c5b34))
     (pin "2" (uuid cca683bd-cb81-4dcb-a953-425e5d6191b3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX30") (unit 1)
         )
@@ -12388,7 +12516,7 @@
     (pin "1" (uuid bc6124e7-2ef2-4755-9ea5-c1cce56d7e96))
     (pin "2" (uuid 3ab1916a-110e-472c-bdc3-96838124df1a))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D63") (unit 1)
         )
@@ -12420,7 +12548,7 @@
     (pin "1" (uuid 5ce9eaee-09ee-4af6-9880-63e4628a9b85))
     (pin "2" (uuid 8a85a5ce-0720-4144-831c-5a4ba2a2411b))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D73") (unit 1)
         )
@@ -12452,7 +12580,7 @@
     (pin "1" (uuid fdbd265c-0029-498b-b9ca-1ce0601d266b))
     (pin "2" (uuid 8eede8a4-0483-43e4-9825-c4be3948b2f2))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D91") (unit 1)
         )
@@ -12533,7 +12661,7 @@
     (pin "8" (uuid 3442e36b-ce60-4408-9de3-ae2c5b80611d))
     (pin "9" (uuid 78dec7ef-93c1-4dc3-a167-bf3df16d7780))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "U4") (unit 1)
         )
@@ -12559,7 +12687,7 @@
     (pin "1" (uuid 925fd055-28cb-4586-a748-5e69c6a262df))
     (pin "2" (uuid 6870698c-d9ec-47c8-bd38-5287f262efb3))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX69") (unit 1)
         )
@@ -12591,7 +12719,7 @@
     (pin "1" (uuid 334bd66b-91d9-4a98-959d-c76526e3defb))
     (pin "2" (uuid 7a56c365-3e99-4bce-8dcd-d920181bbdb4))
     (instances
-      (project "gear80_solder"
+      (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D40") (unit 1)
         )
