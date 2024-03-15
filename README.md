@@ -22,13 +22,13 @@ The Gear80 is a 80% keyboard based on the rp2040.
 ## Layout<br/>
 
 - gear80 hotswap, solder
-![feeee](https://github.com/cosmosalad/Gear80/assets/45204109/19175925-e0bf-4c29-8ef2-8541385072e9)
+![gear80 hotswap, solder](https://github.com/cosmosalad/Gear80/blob/main/img/gear80%20hotswap%2C%20solder.png)
 <br/>
 <br/>
 
 - gear80-a solder
-![0101](https://github.com/cosmosalad/Gear80/assets/45204109/b13b1ecd-c1d9-4d8d-b3ee-a0a5244c2cb1)<br/>
-![0202](https://github.com/cosmosalad/Gear80/assets/45204109/0339979a-12f6-4740-8379-ee0331c9c28f)<br/>
+![gear80-a solder01](https://github.com/cosmosalad/Gear80/blob/main/img/gear80-a%20solder01.png)<br/>
+![gear80-a solder02](https://github.com/cosmosalad/Gear80/blob/main/img/gear80-a%20solder02.png)<br/>
 
 <br/>
 
@@ -41,13 +41,13 @@ There is also a [keyboard plate](https://github.com/cosmosalad/Gear80/tree/main/
 
 ## PCB<br/>
 It may differ from the sample photo and file.<br/>
-![Gear80 hotswap01](https://github.com/cosmosalad/Gear80/assets/45204109/6a480475-2310-4fbc-9ffa-52cb97365e97)<br/>
-![23452345](https://github.com/cosmosalad/Gear80/assets/45204109/6aaf847e-fb79-4a26-ac0e-ad9216a37006)<br/>
+![Gear80 hotswap_kicad](https://github.com/cosmosalad/Gear80/blob/main/img/Gear80%20hotswap_kicad.png)<br/>
+![Gear80 hotswap_real](https://github.com/cosmosalad/Gear80/blob/main/img/Gear80%20hotswap_real.jpg)<br/>
 
 <br/>
 
-![Gear80-A_1 0mm01](https://github.com/cosmosalad/Gear80/assets/45204109/2526988f-1b09-4fdd-9c7d-e32aa2a8d63d)<br/>
-![1212142](https://github.com/cosmosalad/Gear80/assets/45204109/8be8a338-4881-46b2-9020-7547cca913aa)<br/>
+![Gear80-A_1.0mm_kicad](https://github.com/cosmosalad/Gear80/blob/main/img/Gear80-A_1.0mm_kicad.png)<br/>
+![Gear80-A_1.0mm_real](https://github.com/cosmosalad/Gear80/blob/main/img/Gear80%20hotswap_real.jpg)<br/>
 [More pcb ](https://github.com/cosmosalad/Gear80/tree/main/pcb)<br/>
 
 This pcb was made by jlcpcb.(list of pcb parts [main](https://github.com/cosmosalad/Gear80/blob/main/pcb/Gear80%20solder/part%20list.md), [daughterboard](https://github.com/cosmosalad/Gear80/blob/main/pcb/daughterboard/part%20list.md/))<br/><br/>
