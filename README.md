@@ -56,7 +56,7 @@ This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial
 
 
 <p align="center">
-  <a href="https://youtube.com/vi/lhAkio-YmMc?feature=shared">
+  <a href="https://youtube.com/embed/lhAkio-YmMc?feature=shared">
     <img src="http://img.youtube.com/vi/lhAkio-YmMc/0.jpg" alt="gear60">
   </a>
 </p>
