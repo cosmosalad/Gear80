@@ -5612,6 +5612,37 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 63.5 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 3c8bd86c-2a80-4bc7-8ed7-cd21d6af9835)
+    (property "Reference" "C4" (at 66.04 144.7863 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "100n" (at 66.04 147.3263 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 63.5 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 63.5 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 26d68826-8315-46ad-8171-3ebc2084ba4a))
+    (pin "2" (uuid 2103fa74-4b7d-4617-92d9-53fd8a4fd29c))
+    (instances
+      (project "Gear80 solder"
+        (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
+          (reference "C4") (unit 1)
+        )
+      )
+      (project "gear"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "C7") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:D_Small") (at 342.9 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3ccc5f10-7473-4e6b-9a97-14ed6277f021)
@@ -7022,37 +7053,6 @@
       (project "gear"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 63.5 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 6461aa88-8031-4d35-a3dc-bd7ebef19de9)
-    (property "Reference" "C4" (at 66.04 144.7863 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "10u" (at 66.04 147.3263 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 63.5 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 63.5 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 2385d416-7871-4f29-a7fb-bf1440bcb02a))
-    (pin "2" (uuid 282d2f18-35c8-49c6-9a16-967e634d9021))
-    (instances
-      (project "Gear80 solder"
-        (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
-          (reference "C4") (unit 1)
-        )
-      )
-      (project "gear"
-        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
-          (reference "C5") (unit 1)
         )
       )
     )
