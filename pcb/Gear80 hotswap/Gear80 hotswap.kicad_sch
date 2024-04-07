@@ -3867,7 +3867,7 @@
     (pin "1" (uuid 115137c8-39f3-4ed0-b14e-6eebeb44cc67))
     (pin "2" (uuid 8490d70c-ba7f-47f0-b52b-f42f5b45d734))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D80") (unit 1)
         )
@@ -3904,7 +3904,7 @@
     (pin "1" (uuid e30ee29f-9fe9-4e51-8926-23e07a9d5b51))
     (pin "2" (uuid eb44e4a3-1eb3-4c26-8066-cf2c339d0899))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D36") (unit 1)
         )
@@ -3935,7 +3935,7 @@
     (pin "1" (uuid 192d9cb6-2989-4afc-9bd0-77b2238af045))
     (pin "2" (uuid b99062c7-eb7a-4690-b038-80569b422f98))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX13") (unit 1)
         )
@@ -3972,7 +3972,7 @@
     (pin "1" (uuid 94fb8885-d911-4a19-bdcd-3c82c658d8be))
     (pin "2" (uuid 2f9267a0-1ce6-47ad-bbd1-3314d3616047))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D4") (unit 1)
         )
@@ -4002,7 +4002,7 @@
     )
     (pin "1" (uuid 7d2f2dab-41c1-4743-a17c-9b149d7070d9))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR019") (unit 1)
         )
@@ -4033,7 +4033,7 @@
     (pin "1" (uuid 94eeca0d-b1a2-49eb-a9b0-6b2a8d5fb773))
     (pin "2" (uuid a68c60c8-75a2-4aaa-b82f-53a0e8c3e314))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX67") (unit 1)
         )
@@ -4070,7 +4070,7 @@
     (pin "1" (uuid 59336e19-b98b-4e9c-ac5d-3a84a102f8d6))
     (pin "2" (uuid 7180e554-3d00-4921-9d72-d11f7109a3a8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D38") (unit 1)
         )
@@ -4107,7 +4107,7 @@
     (pin "1" (uuid c74c1420-8658-4575-a369-97afe517c5df))
     (pin "2" (uuid 4dbc13d5-1005-44cf-8d4f-eb4440346348))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D81") (unit 1)
         )
@@ -4138,7 +4138,7 @@
     (pin "1" (uuid 9946f9d0-f57b-44b5-9132-01b9d09b8d3d))
     (pin "2" (uuid 2e0c8c6b-bffe-41f8-9998-197ab2a3e94a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R7") (unit 1)
         )
@@ -4224,7 +4224,7 @@
     (pin "8" (uuid 269c5164-9a0b-4bf4-9e1c-cbe97f608bfe))
     (pin "9" (uuid 8282c29d-0c8f-4709-bf1f-cee9ea82e198))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "U1") (unit 1)
         )
@@ -4261,7 +4261,7 @@
     (pin "1" (uuid 71c95455-c2d0-45d8-8e65-60b129ff7753))
     (pin "2" (uuid 85c5c991-15b0-4ed9-99d5-2edb7abaf808))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D74") (unit 1)
         )
@@ -4292,7 +4292,7 @@
     (pin "1" (uuid 53ca3ae6-9113-4a2c-baa2-8d76ccab449f))
     (pin "2" (uuid d474a365-c476-4467-8022-28b0b38f88d0))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX37") (unit 1)
         )
@@ -4323,7 +4323,7 @@
     (pin "1" (uuid ce1b621a-cc37-4113-ba40-6ff7d5f411dd))
     (pin "2" (uuid 07861d50-a8af-4d44-8a97-16ee889029de))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX28") (unit 1)
         )
@@ -4354,7 +4354,7 @@
     (pin "1" (uuid 3f82d82b-61ab-42c3-9c13-a4d32499d611))
     (pin "2" (uuid f2d1c730-ee7b-45ac-9e36-5d0689f4a171))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX49") (unit 1)
         )
@@ -4385,7 +4385,7 @@
     (pin "1" (uuid ac17891f-7a68-4831-81b9-cf87f2e932d6))
     (pin "2" (uuid d9e6b03c-4265-48f0-8556-d277ccc19b4f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX44") (unit 1)
         )
@@ -4422,7 +4422,7 @@
     (pin "1" (uuid 451c964f-57f0-4da6-8ce7-2b2484e73255))
     (pin "2" (uuid c9431f9e-9a2d-4ceb-93b3-cc3e6ca16a77))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D48") (unit 1)
         )
@@ -4452,7 +4452,7 @@
     )
     (pin "1" (uuid 9e26942d-4362-4752-b041-362f342e58ae))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR02") (unit 1)
         )
@@ -4489,7 +4489,7 @@
     (pin "1" (uuid 44bdb9fe-dd3d-43d9-aada-b38e922eee4b))
     (pin "2" (uuid a48bfd1a-82d8-4efc-b388-ecf0866e8d0f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D42") (unit 1)
         )
@@ -4520,7 +4520,7 @@
     (pin "1" (uuid 40f6ded5-2a1f-49b8-9fbb-e4d5cd5a6331))
     (pin "2" (uuid a3c2ca62-0ae4-48f5-815f-705f15226a72))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX69") (unit 1)
         )
@@ -4551,7 +4551,7 @@
     (pin "1" (uuid 40b4c2b5-53d7-4293-9e3e-335a591d146b))
     (pin "2" (uuid 185904b1-f1fb-417b-b7e2-70a8b22f4f65))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C16") (unit 1)
         )
@@ -4582,7 +4582,7 @@
     (pin "1" (uuid 2096cb64-c3cb-4e96-8861-0b6eb2cea4f0))
     (pin "2" (uuid ac6574df-9464-4dcc-a774-5ade6ade6281))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX38") (unit 1)
         )
@@ -4614,7 +4614,7 @@
     (pin "2" (uuid 6a11242f-f723-4dba-ae64-0dd9a72557cc))
     (pin "3" (uuid 01e7cb29-5dff-4957-b419-5d44539b02da))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "U4") (unit 1)
         )
@@ -4645,7 +4645,7 @@
     (pin "1" (uuid 1bf5a62e-2f44-41ee-97f6-c952df3ed910))
     (pin "2" (uuid 562670bb-57cd-40ce-b2e1-25f39f656fef))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX66") (unit 1)
         )
@@ -4682,7 +4682,7 @@
     (pin "1" (uuid 8f9a96ff-6a14-43d7-9b3e-aa442763147e))
     (pin "2" (uuid 98477a81-9f3d-4b68-b9ba-899b48356618))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D46") (unit 1)
         )
@@ -4713,7 +4713,7 @@
     (pin "1" (uuid e3ac0a94-8e1c-4263-8946-ef48c2e5027b))
     (pin "2" (uuid f3abf88f-24f0-4660-98dc-48e91aa7ee4f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX82") (unit 1)
         )
@@ -4743,7 +4743,7 @@
     )
     (pin "1" (uuid 57369883-f2a3-4925-81ba-6caf7e8e8551))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR027") (unit 1)
         )
@@ -4774,7 +4774,7 @@
     (pin "1" (uuid 0d32ad2c-78c2-43b9-b992-253086571b03))
     (pin "2" (uuid 7c9be827-ab4e-4dfe-8a1d-8999cd068163))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX81") (unit 1)
         )
@@ -4811,7 +4811,7 @@
     (pin "1" (uuid cff00c60-733f-48e5-bbcb-10eb1637fd96))
     (pin "2" (uuid c13c795a-77bb-482f-9745-14ad1f41a38a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D75") (unit 1)
         )
@@ -4848,7 +4848,7 @@
     (pin "1" (uuid 70487d8f-29de-4998-962e-eec1f56575ad))
     (pin "2" (uuid 3b66d427-5513-4128-aa2a-67294b02898c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D20") (unit 1)
         )
@@ -4879,7 +4879,7 @@
     (pin "1" (uuid 14589aaf-bb08-4b2e-9303-c691497cb9ed))
     (pin "2" (uuid ea0d0e3e-d660-44fe-adf9-d7bfc544a592))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX62") (unit 1)
         )
@@ -4908,7 +4908,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "S1") (unit 1)
         )
@@ -4939,7 +4939,7 @@
     (pin "1" (uuid 9737380c-1d60-43c8-a714-f8160c1e82d1))
     (pin "2" (uuid 09185f7a-f340-4387-a537-d42e201b10de))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX43") (unit 1)
         )
@@ -4970,7 +4970,7 @@
     (pin "1" (uuid 2c40a490-7adf-47c0-a827-2cb70982ecea))
     (pin "2" (uuid c9bb1805-8005-468d-b914-a2eae7850f49))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX36") (unit 1)
         )
@@ -5001,7 +5001,7 @@
     (pin "1" (uuid 42512f49-2266-4965-bb1d-c487e99b7aba))
     (pin "2" (uuid 75f81652-17a0-4996-90c8-6b5a6ff80ee0))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX58") (unit 1)
         )
@@ -5038,7 +5038,7 @@
     (pin "1" (uuid bb53c0aa-883f-4df7-ab93-e58a1cd3615c))
     (pin "2" (uuid f69e8941-33bf-4bc5-8b79-bb87758cb570))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D25") (unit 1)
         )
@@ -5075,7 +5075,7 @@
     (pin "1" (uuid 8d2b7fe3-0a59-4d01-8f14-abfb5bed2fc2))
     (pin "2" (uuid 85e42185-9ca7-4c5a-9309-3b237d0db7cb))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D37") (unit 1)
         )
@@ -5106,7 +5106,7 @@
     (pin "1" (uuid f2e11049-6bb7-42c7-8e39-c8126bbdb508))
     (pin "2" (uuid e3550a98-bf5d-4a25-930d-f5160d86d1d1))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX86") (unit 1)
         )
@@ -5143,7 +5143,7 @@
     (pin "1" (uuid a4d0d084-3b38-4e45-a4b0-d710f5a52378))
     (pin "2" (uuid e4de5371-322e-446d-a5e5-2faab0ab5d80))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D35") (unit 1)
         )
@@ -5180,7 +5180,7 @@
     (pin "1" (uuid bebc249a-3886-438d-9b4d-4c810499b352))
     (pin "2" (uuid d27bb8ea-f250-441f-ad4a-950eb5742396))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D59") (unit 1)
         )
@@ -5209,7 +5209,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "S5") (unit 1)
         )
@@ -5246,7 +5246,7 @@
     (pin "1" (uuid 1ab9287a-4a68-46e0-a85a-24f658809bbf))
     (pin "2" (uuid f5d73f9d-8390-4f48-a68e-c7f1f833c7b5))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D52") (unit 1)
         )
@@ -5277,7 +5277,7 @@
     (pin "1" (uuid 1da1cdd5-ec9f-4fd9-8dce-c2f310120ce9))
     (pin "2" (uuid 13dc59c7-09b7-403e-877d-cabd53741da4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX70") (unit 1)
         )
@@ -5308,7 +5308,7 @@
     (pin "1" (uuid 9c573319-7805-4b95-8151-dfa268ce1028))
     (pin "2" (uuid 5712f3a6-cac0-435e-bca2-3dd4700fef26))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX42") (unit 1)
         )
@@ -5339,7 +5339,7 @@
     (pin "1" (uuid 9775cbc2-6e19-4210-a6f8-441147da4c71))
     (pin "2" (uuid 33f761b1-b37e-4d5c-b9a3-4641448ac390))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX65") (unit 1)
         )
@@ -5369,7 +5369,7 @@
     )
     (pin "1" (uuid b7a5759a-ea36-4bdd-aa34-f4ca90b08d05))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR01") (unit 1)
         )
@@ -5406,7 +5406,7 @@
     (pin "1" (uuid c9179964-8e47-4060-886e-a9174812111d))
     (pin "2" (uuid b1caadd2-7aa8-4f30-8e01-a98dcdd83aa5))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D65") (unit 1)
         )
@@ -5436,7 +5436,7 @@
     )
     (pin "1" (uuid 8efb873f-7011-4131-82e0-c2a08e4fa0cf))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR020") (unit 1)
         )
@@ -5467,7 +5467,7 @@
     (pin "1" (uuid fdd0fe56-b898-4079-b449-9d5c012947d2))
     (pin "2" (uuid e68c214b-aeb8-4238-b881-bfaf4ceb0d5a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX39") (unit 1)
         )
@@ -5498,7 +5498,7 @@
     (pin "1" (uuid c4fa4143-84f9-4c73-b058-8f24cb4db3b7))
     (pin "2" (uuid 2f20a53c-1605-47e9-b5b2-bdc88b136a1c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX88") (unit 1)
         )
@@ -5535,7 +5535,7 @@
     (pin "1" (uuid 61c44199-79fe-4152-9f4c-12960b0787aa))
     (pin "2" (uuid b9297fab-6293-4e84-8a42-97d3a404dcb9))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D22") (unit 1)
         )
@@ -5572,7 +5572,7 @@
     (pin "1" (uuid 8807b7e9-c9c4-42a1-b0fd-b0b775616fd4))
     (pin "2" (uuid 173932e1-30e1-4d5f-8ae5-e90b8c84bab3))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D27") (unit 1)
         )
@@ -5601,7 +5601,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "S6") (unit 1)
         )
@@ -5638,7 +5638,7 @@
     (pin "1" (uuid 43d004ac-092b-4dcf-a7ec-57045888e6d0))
     (pin "2" (uuid d87d89ec-f680-411a-ba4f-61e713631c89))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D56") (unit 1)
         )
@@ -5675,7 +5675,7 @@
     (pin "1" (uuid ded62007-8c5d-4a3c-872c-615ab0ed05c7))
     (pin "2" (uuid 96f68064-0686-414a-9573-b9dff1b092aa))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D17") (unit 1)
         )
@@ -5712,7 +5712,7 @@
     (pin "1" (uuid a1035a50-b87c-4505-8a36-299bec9eede8))
     (pin "2" (uuid 1c9c72e6-1d3b-42ac-bec5-a690db070861))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D47") (unit 1)
         )
@@ -5743,7 +5743,7 @@
     (pin "1" (uuid 8e08585e-c31a-432a-b511-d6ff68ecfbda))
     (pin "2" (uuid fbf19107-8062-467f-8bf4-0aff1fe5ef58))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C5") (unit 1)
         )
@@ -5780,7 +5780,7 @@
     (pin "1" (uuid a6a83cbe-6e8a-4353-982b-8930ef035ca7))
     (pin "2" (uuid 132f3d32-b05d-4e2e-a901-ff9dc1f47dd8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D43") (unit 1)
         )
@@ -5817,7 +5817,7 @@
     (pin "1" (uuid a1ca04d6-2c2f-4514-bd30-8b33f6793616))
     (pin "2" (uuid 7204c559-c179-4cbc-b87f-a379c5ba0a9d))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D12") (unit 1)
         )
@@ -5848,7 +5848,7 @@
     (pin "1" (uuid efb941d8-ec51-4fdb-9746-1823bf60b859))
     (pin "2" (uuid 5e6229db-96fe-4024-a5fb-95cc2e646b89))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C1") (unit 1)
         )
@@ -5879,7 +5879,7 @@
     (pin "1" (uuid c607a2e8-3fe1-4380-a856-8f91e0cc1711))
     (pin "2" (uuid 7b417dc9-958a-493d-8111-741108b4b5f2))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX63") (unit 1)
         )
@@ -5910,7 +5910,7 @@
     (pin "1" (uuid 7f68701d-bbf3-4f53-8521-57369e100011))
     (pin "2" (uuid 938d4e28-1680-428a-a08c-1723d75980fd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX3") (unit 1)
         )
@@ -5940,7 +5940,7 @@
     )
     (pin "1" (uuid ed9b2249-c7c5-4c64-86b7-87219c5dca2f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR07") (unit 1)
         )
@@ -5977,7 +5977,7 @@
     (pin "1" (uuid 95bf8c2b-b68c-400d-8c82-7cfba0bc771c))
     (pin "2" (uuid 57fa25ab-56da-4062-8d48-302a8dfca75a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D29") (unit 1)
         )
@@ -6007,7 +6007,7 @@
     )
     (pin "1" (uuid 292741fc-18c3-49c8-8602-26093ed65469))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR03") (unit 1)
         )
@@ -6038,7 +6038,7 @@
     (pin "1" (uuid e32e6d5d-8530-4f2e-83a3-2968dcebac87))
     (pin "2" (uuid 0196dfd7-5861-40b4-bda7-3865d786bf12))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C10") (unit 1)
         )
@@ -6069,7 +6069,7 @@
     (pin "1" (uuid b496cc29-4672-4deb-b447-cbf3c9ff8c68))
     (pin "2" (uuid cf1bc7f8-cc75-4f85-a970-0cc467810337))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX2") (unit 1)
         )
@@ -6106,7 +6106,7 @@
     (pin "1" (uuid 84f71dcd-8725-4ed8-b9a9-174c31f6f8b7))
     (pin "2" (uuid 144205a0-3aa4-4849-bd5c-4bb20b8c8ed5))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D79") (unit 1)
         )
@@ -6136,7 +6136,7 @@
     )
     (pin "1" (uuid 6eb3def0-a9a8-4289-b6e4-392af61a0fae))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR013") (unit 1)
         )
@@ -6167,7 +6167,7 @@
     (pin "1" (uuid 04800d45-f4e8-4d9c-addb-0761045bdc73))
     (pin "2" (uuid d0b38a13-747d-479d-a348-da28bd4ca6f1))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX23") (unit 1)
         )
@@ -6198,7 +6198,7 @@
     (pin "1" (uuid 884cb7a5-c761-450c-bc45-3c5d448e8936))
     (pin "2" (uuid b6b7ee3e-0236-42bf-bb79-4bad2cc1e4a0))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX35") (unit 1)
         )
@@ -6227,7 +6227,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "S2") (unit 1)
         )
@@ -6264,7 +6264,7 @@
     (pin "1" (uuid 12a41eff-3a6a-4ea8-965c-b863972fe419))
     (pin "2" (uuid 406296a7-a349-407c-bc71-3919575d7486))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D51") (unit 1)
         )
@@ -6295,7 +6295,7 @@
     (pin "1" (uuid a1d9f548-b4c5-4be2-91fd-6f641ed01c3e))
     (pin "2" (uuid efcaa774-ae03-43d1-980c-68a75f384021))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX7") (unit 1)
         )
@@ -6326,7 +6326,7 @@
     (pin "1" (uuid e8341eb5-a52e-4979-afa8-c585b103655d))
     (pin "2" (uuid aa496489-84df-4f87-b38f-412dd8fa65c4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX21") (unit 1)
         )
@@ -6357,7 +6357,7 @@
     (pin "1" (uuid 642a639d-5d10-45d9-bc0f-069023cf5098))
     (pin "2" (uuid cd8bb002-13f3-4fb5-bf76-60f377492bcd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX54") (unit 1)
         )
@@ -6388,7 +6388,7 @@
     (pin "1" (uuid f842459e-908c-48df-9038-95967a41f35b))
     (pin "2" (uuid 1d5194dc-b6a6-4c5b-9732-673fa413aa87))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX56") (unit 1)
         )
@@ -6419,7 +6419,7 @@
     (pin "1" (uuid 4a9bf0d0-e957-4eba-a2b3-7f8af99277d8))
     (pin "2" (uuid de3ad0ac-9535-4034-bbb7-378681f607f1))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C14") (unit 1)
         )
@@ -6455,7 +6455,7 @@
     (pin "1" (uuid 33d185bd-1cee-4da8-9f47-2ab31655135d))
     (pin "2" (uuid d590b969-a586-4f69-8360-4d65f321a800))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX60") (unit 1)
         )
@@ -6486,7 +6486,7 @@
     (pin "1" (uuid 2f38dbe5-a8f5-4adf-b747-7050a389b8b5))
     (pin "2" (uuid d1c310f3-a244-45f4-a18b-5dc3b93e5597))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX19") (unit 1)
         )
@@ -6517,7 +6517,7 @@
     (pin "1" (uuid 0476bd21-5a9c-43da-beb5-a9c615fe2e29))
     (pin "2" (uuid 77c9d0af-7b76-4ec8-ab07-97dbd4ec97d3))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX22") (unit 1)
         )
@@ -6548,7 +6548,7 @@
     (pin "1" (uuid 5a67f553-4950-4cf6-888d-f0a972fe6d7e))
     (pin "2" (uuid 76c127ab-5473-4e22-85da-f75f74f038f6))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX31") (unit 1)
         )
@@ -6585,7 +6585,7 @@
     (pin "1" (uuid 667be31a-23ac-4363-917e-5cf117c3cd4d))
     (pin "2" (uuid e42372bb-97fe-4240-88df-f5c2653b3c85))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D54") (unit 1)
         )
@@ -6622,7 +6622,7 @@
     (pin "1" (uuid 4305831b-d66b-4364-9d19-305dba8673c1))
     (pin "2" (uuid 47c4ebb3-fd29-4e61-bc8b-809af51869bd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D49") (unit 1)
         )
@@ -6653,7 +6653,7 @@
     (pin "1" (uuid 5a54143f-9c9b-404f-a171-d953c92fe3e2))
     (pin "2" (uuid f1d3f6fd-2b2b-45eb-8044-2373c9769d45))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C8") (unit 1)
         )
@@ -6690,7 +6690,7 @@
     (pin "1" (uuid 4f66ddca-5cbd-4cf2-b9ee-d31b6fb5f08e))
     (pin "2" (uuid 9a46449c-4529-43b8-8ea3-59dc2036de04))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D33") (unit 1)
         )
@@ -6721,7 +6721,7 @@
     (pin "1" (uuid 78dd93c5-eeee-451c-8a4e-53a6fdd4c39b))
     (pin "2" (uuid bcf31e6d-67f8-4733-94f5-c4af9f0a49ad))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C7") (unit 1)
         )
@@ -6752,7 +6752,7 @@
     (pin "1" (uuid a2c321f2-914f-40ff-8be2-5712c9f54053))
     (pin "2" (uuid b36c393d-f50e-43be-a7c3-7d17f5d6d531))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C2") (unit 1)
         )
@@ -6783,7 +6783,7 @@
     (pin "1" (uuid 81aa6062-99c6-48e3-9861-20af9163d789))
     (pin "2" (uuid 50a96f23-dee6-4504-84a3-7586a2457faf))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX55") (unit 1)
         )
@@ -6814,7 +6814,7 @@
     (pin "1" (uuid 7bab77db-79a6-42c4-8c02-5604669bb34e))
     (pin "2" (uuid 3b19c659-0dbd-40a9-bcee-92fc351359ce))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX34") (unit 1)
         )
@@ -6845,7 +6845,7 @@
     (pin "1" (uuid fa7541bd-a706-4666-8d38-9f503f7ae8d9))
     (pin "2" (uuid fb3da523-1e0e-4f19-9ab3-20423c299189))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX5") (unit 1)
         )
@@ -6882,7 +6882,7 @@
     (pin "1" (uuid c395a326-e08e-4d3a-ba84-338ae693afc5))
     (pin "2" (uuid 600c9ec4-38be-4b56-a4d8-6b924c4de78b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D55") (unit 1)
         )
@@ -6913,7 +6913,7 @@
     (pin "1" (uuid d0422375-6774-433d-9265-773938e8bb9f))
     (pin "2" (uuid 322d983e-cf0d-42be-ba37-d95d0b99619b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R9") (unit 1)
         )
@@ -6950,7 +6950,7 @@
     (pin "1" (uuid 6a1b7d9a-ab2d-4a9c-8fa0-e6b795bdd287))
     (pin "2" (uuid a80dd439-bd90-47a8-a1c1-c06c10f96fcb))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D24") (unit 1)
         )
@@ -6958,37 +6958,6 @@
       (project "gear"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 63.5 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 6461aa88-8031-4d35-a3dc-bd7ebef19de9)
-    (property "Reference" "C4" (at 66.04 144.7863 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "10u" (at 66.04 147.3263 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 63.5 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 63.5 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 2385d416-7871-4f29-a7fb-bf1440bcb02a))
-    (pin "2" (uuid 282d2f18-35c8-49c6-9a16-967e634d9021))
-    (instances
-      (project "NEW"
-        (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
-          (reference "C4") (unit 1)
-        )
-      )
-      (project "gear"
-        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
-          (reference "C5") (unit 1)
         )
       )
     )
@@ -7011,7 +6980,7 @@
     )
     (pin "1" (uuid 39b7bee9-b8ab-4fc7-b2b7-38726b664405))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR015") (unit 1)
         )
@@ -7048,7 +7017,7 @@
     (pin "1" (uuid 84bd3108-0e75-4679-9a41-1039302163be))
     (pin "2" (uuid c6455511-b31b-4841-9bbe-4ed9f954b4e4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D58") (unit 1)
         )
@@ -7079,7 +7048,7 @@
     (pin "1" (uuid 5da1d844-35fc-44f3-841a-6a1d3b6e2178))
     (pin "2" (uuid d2be56fb-0fe3-4484-aefe-29e38bbddc15))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R6") (unit 1)
         )
@@ -7112,7 +7081,7 @@
     (pin "3" (uuid 1c0b0769-43f6-47bd-bf32-cb8e5fce2b1f))
     (pin "4" (uuid 6b287f4f-42a0-433a-9d19-b42264c5bbbf))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "J3") (unit 1)
         )
@@ -7149,7 +7118,7 @@
     (pin "1" (uuid 9d717630-63bf-429a-8e8c-dca5862888a0))
     (pin "2" (uuid ec07e5fa-4b54-46b7-85e3-4c885804923e))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D13") (unit 1)
         )
@@ -7180,7 +7149,7 @@
     (pin "1" (uuid 434ec0ec-bbe0-489b-ab0d-ed06bf964ddf))
     (pin "2" (uuid 73ecae83-44be-431e-a4cc-ecc1033e05d8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX79") (unit 1)
         )
@@ -7210,7 +7179,7 @@
     )
     (pin "1" (uuid b4061e26-f660-472a-8866-69030269ab15))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR05") (unit 1)
         )
@@ -7247,7 +7216,7 @@
     (pin "1" (uuid f3f89061-cf0c-4d52-b06d-bb37066e97d3))
     (pin "2" (uuid 5f762f0f-59b3-4ade-8f73-b24216f9e1da))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D72") (unit 1)
         )
@@ -7284,7 +7253,7 @@
     (pin "1" (uuid d74f26ef-a37f-4926-b032-d77f6e146379))
     (pin "2" (uuid dd266fd4-ac88-4a33-8f00-55621a56c515))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D7") (unit 1)
         )
@@ -7321,7 +7290,7 @@
     (pin "1" (uuid f89912f5-8c7d-45a9-88ee-490a8e6c8930))
     (pin "2" (uuid a3b0faa0-4af0-4138-bf66-988b940d074c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D2") (unit 1)
         )
@@ -7352,7 +7321,7 @@
     (pin "1" (uuid 3bdf1258-eaa9-438d-ba56-f0b235ef2679))
     (pin "2" (uuid 183ee6f7-d3f7-45e0-b096-6ddbffeb6027))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R5") (unit 1)
         )
@@ -7383,7 +7352,7 @@
     (pin "1" (uuid e5d694b9-4814-4bde-bbb3-2e14b28fbe5b))
     (pin "2" (uuid 49c9f2f8-6f42-43e1-8f06-4ebb21cd0389))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX18") (unit 1)
         )
@@ -7420,7 +7389,7 @@
     (pin "1" (uuid a080057e-f8f2-4245-b3b5-4caeb7c21491))
     (pin "2" (uuid 6ea878cc-3ece-4267-8d0c-0c6969069edb))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D41") (unit 1)
         )
@@ -7457,7 +7426,7 @@
     (pin "1" (uuid a6f892ff-b5cf-45ac-add3-bf0300d21582))
     (pin "2" (uuid d7892bfc-58e8-4908-9b5d-9c2a31093a2b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D70") (unit 1)
         )
@@ -7494,7 +7463,7 @@
     (pin "1" (uuid 4ae2dfb2-43bb-434c-9f63-38da0e828ae9))
     (pin "2" (uuid 05981797-67c0-4c4c-957a-62f4a97e1dbf))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D23") (unit 1)
         )
@@ -7525,7 +7494,7 @@
     (pin "1" (uuid 88eeef3b-c4a4-424f-82bf-f7564ff468ee))
     (pin "2" (uuid fec27827-6c73-4d84-85ad-9ce153b403cd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX61") (unit 1)
         )
@@ -7562,7 +7531,7 @@
     (pin "1" (uuid 67acd4d9-e207-4e44-b21d-73e93cbfd48b))
     (pin "2" (uuid cfc402a0-6616-4c9e-808a-2633c20484a2))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D26") (unit 1)
         )
@@ -7593,7 +7562,7 @@
     (pin "1" (uuid 5c520eb8-a929-40d8-998b-0819c77233ed))
     (pin "2" (uuid e7286ca3-5465-45df-a1d7-cfa2db664cdf))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX64") (unit 1)
         )
@@ -7624,7 +7593,7 @@
     (pin "1" (uuid 7f441065-54ad-4567-9a38-4a1c8fe00442))
     (pin "2" (uuid ff33b079-ef15-4f56-a7c5-8ff6b1d7a06c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX47") (unit 1)
         )
@@ -7654,7 +7623,7 @@
     )
     (pin "1" (uuid b1d9a855-ffa6-45e5-b4d1-ebf0ec98b813))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR014") (unit 1)
         )
@@ -7691,7 +7660,7 @@
     (pin "1" (uuid 32dd38e6-23a0-4725-9781-0c06c4f45c63))
     (pin "2" (uuid b18a2d54-d896-46cd-bb45-588a00680420))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D30") (unit 1)
         )
@@ -7722,7 +7691,7 @@
     (pin "1" (uuid ce55a822-e942-4fc7-91d7-341b62022f2e))
     (pin "2" (uuid 3efa4e23-4c05-42d0-b99a-21b9de3da5d4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C6") (unit 1)
         )
@@ -7759,7 +7728,7 @@
     (pin "1" (uuid 55385c5d-2e5d-4ed0-a9bb-d7e080209e3c))
     (pin "2" (uuid 462c0037-55c3-435a-b32f-fe5bfab2cb3a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D78") (unit 1)
         )
@@ -7790,7 +7759,7 @@
     (pin "1" (uuid 62f0a012-bac3-4569-8d11-723b5d12ea1b))
     (pin "2" (uuid ab9e7f85-8e40-4f65-826b-4fed64863042))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX80") (unit 1)
         )
@@ -7821,7 +7790,7 @@
     (pin "1" (uuid 4eea0185-c6d8-4b68-b9e7-3343d363f0a9))
     (pin "2" (uuid dc983ce4-f147-4d75-a2f9-f217476b4154))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX52") (unit 1)
         )
@@ -7858,7 +7827,7 @@
     (pin "1" (uuid d25f3056-f63a-48b1-a200-23c183ae5925))
     (pin "2" (uuid b1a3ff6f-aa0d-498e-ae65-b92a8a00f22c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D68") (unit 1)
         )
@@ -7895,7 +7864,7 @@
     (pin "1" (uuid efc3759a-c738-4393-848e-54ae9e0c9d9b))
     (pin "2" (uuid cc4048bd-140e-44ea-8b44-f0b5ddb164f8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D71") (unit 1)
         )
@@ -7932,7 +7901,7 @@
     (pin "1" (uuid 0ecde02a-d25b-4d1b-a647-13b1b3456986))
     (pin "2" (uuid 42008806-5da5-4373-a0ff-f8831ae1eaf7))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D64") (unit 1)
         )
@@ -7969,7 +7938,7 @@
     (pin "1" (uuid 34fa7429-a93e-4628-8128-2ec6f7abd9e0))
     (pin "2" (uuid ff7c28b4-bd4b-4860-aaf8-55e654f3f6a6))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D66") (unit 1)
         )
@@ -8000,7 +7969,7 @@
     (pin "1" (uuid d3b5d308-2b32-456a-abd9-5ed08b285ae8))
     (pin "2" (uuid c86f1aab-3409-4b5b-80c5-5afcbc4ae658))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX72") (unit 1)
         )
@@ -8031,7 +8000,7 @@
     (pin "1" (uuid 174ca13e-e8e6-454b-a38a-46e14d644690))
     (pin "2" (uuid e2f91481-2bbe-4bee-8284-ea8b593de5cb))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX53") (unit 1)
         )
@@ -8061,7 +8030,7 @@
     )
     (pin "1" (uuid a1959d54-1005-4b64-942c-04e89ad0239a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR018") (unit 1)
         )
@@ -8092,7 +8061,7 @@
     (pin "1" (uuid 36192e48-9695-48f4-a178-bcee88fe8c2d))
     (pin "2" (uuid 8d2dba20-8558-4e4f-a70f-ff1bdee4a88b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX45") (unit 1)
         )
@@ -8129,7 +8098,7 @@
     (pin "1" (uuid 3d39127b-fdd5-49b7-8a73-332bd2cbf452))
     (pin "2" (uuid 49a24bce-4fd6-48d4-a987-76756299b559))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D53") (unit 1)
         )
@@ -8160,7 +8129,7 @@
     (pin "1" (uuid 2f8eb948-0746-4e6a-bed1-c655f6c39e6b))
     (pin "2" (uuid 3795b96f-7f12-41cf-9d65-db9669bbfb75))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX77") (unit 1)
         )
@@ -8191,7 +8160,7 @@
     (pin "1" (uuid 8a49b3b1-921f-424b-b31a-32ed9a6a46ba))
     (pin "2" (uuid f7188779-f410-47ad-abbc-98581365d6b6))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX40") (unit 1)
         )
@@ -8222,7 +8191,7 @@
     (pin "1" (uuid 01a3fd0e-25ca-49e3-9433-9c55a15e45cd))
     (pin "2" (uuid 4e5b7c19-6324-4f7f-a5fd-384555b7e092))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX78") (unit 1)
         )
@@ -8253,7 +8222,7 @@
     (pin "1" (uuid 5e135ff7-29bb-4a7b-b07f-0b115eb8e071))
     (pin "2" (uuid 0881bf21-d215-4e77-9a49-88763667618e))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX76") (unit 1)
         )
@@ -8284,7 +8253,7 @@
     (pin "1" (uuid 68311cf6-09db-4f95-bda2-cbcb02d5ff5f))
     (pin "2" (uuid ae01d6c7-1463-483a-98a8-dc894f50afe9))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX89") (unit 1)
         )
@@ -8315,7 +8284,7 @@
     (pin "1" (uuid 0a5424f6-0f07-4fab-9bd1-95fdb684945e))
     (pin "2" (uuid c2ee8608-62a6-4cf9-aff6-2e331890473b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX11") (unit 1)
         )
@@ -8345,7 +8314,7 @@
     )
     (pin "1" (uuid d19c8b27-a257-4bac-a5fd-60eb1bf30f07))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR024") (unit 1)
         )
@@ -8382,7 +8351,7 @@
     (pin "1" (uuid e6c9b573-f001-4777-83e5-31ff93a24c71))
     (pin "2" (uuid 33f78f99-0fdd-4b95-baca-47183e96bb53))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D57") (unit 1)
         )
@@ -8413,7 +8382,7 @@
     (pin "1" (uuid 90b27252-5635-4fce-880a-e143506e4aa3))
     (pin "2" (uuid 5f6b8e02-11eb-469d-a641-eba13fc186bb))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX14") (unit 1)
         )
@@ -8450,7 +8419,7 @@
     (pin "1" (uuid 9c844b35-60e2-4a59-ba80-3103e50def93))
     (pin "2" (uuid d763c273-51b0-458e-a421-1c22145f5886))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D6") (unit 1)
         )
@@ -8487,7 +8456,7 @@
     (pin "1" (uuid 29aefa93-396d-45a9-b82b-e781ae0c91b5))
     (pin "2" (uuid ed2ac76c-b5ae-4d95-bac2-7cca70f76817))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D69") (unit 1)
         )
@@ -8524,7 +8493,7 @@
     (pin "1" (uuid 8e94f0e1-a25a-4e6a-9583-e0a22c5abb48))
     (pin "2" (uuid 7d440eac-38eb-4cb5-9849-f6c46980b44f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D9") (unit 1)
         )
@@ -8555,7 +8524,7 @@
     (pin "1" (uuid f41cfac8-4831-499f-8c44-40d09b3b0a6e))
     (pin "2" (uuid 91e02ef7-0e10-47f4-b431-398e0db39b7b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C15") (unit 1)
         )
@@ -8592,7 +8561,7 @@
     (pin "1" (uuid 86906b54-7183-4c2c-bfb5-a3abd8dda46e))
     (pin "2" (uuid f26ea5b9-9791-443c-8115-b524d2b052ae))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D8") (unit 1)
         )
@@ -8623,7 +8592,7 @@
     (pin "1" (uuid 3b7f8b97-e192-4ac0-b440-b61a1358e714))
     (pin "2" (uuid de6b4eee-b895-490a-b7ec-61cd6eafa9ae))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C12") (unit 1)
         )
@@ -8660,7 +8629,7 @@
     (pin "1" (uuid 30ee49a4-88f2-4c45-a129-682aae54b84a))
     (pin "2" (uuid c851cdad-0113-4dc6-9fcd-32cb17679e5e))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D50") (unit 1)
         )
@@ -8697,7 +8666,7 @@
     (pin "1" (uuid 292d156b-ea7b-4495-8b7a-5a1e85e35779))
     (pin "2" (uuid 59648232-815d-4604-8a61-b96657521c4a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D10") (unit 1)
         )
@@ -8728,7 +8697,7 @@
     (pin "1" (uuid 44046400-08f1-4f7f-8545-f8f14118fa08))
     (pin "2" (uuid 45aaa29e-c414-4efb-878e-3b73479e128c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX1") (unit 1)
         )
@@ -8759,7 +8728,7 @@
     (pin "1" (uuid cf8cabe3-85e8-4632-8f9c-5f2080cb8fc2))
     (pin "2" (uuid 0e291359-14f6-46e8-bafd-2d66cff9f5fe))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R2") (unit 1)
         )
@@ -8790,7 +8759,7 @@
     (pin "1" (uuid f6a8592a-d9a0-4b6f-9b4a-e748ed85a977))
     (pin "2" (uuid a46ddf8d-e34e-4979-8217-a7d4065d0fc6))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX10") (unit 1)
         )
@@ -8823,7 +8792,7 @@
     (pin "3" (uuid 0f0c5144-d564-4023-914b-5c73701de204))
     (pin "4" (uuid e51a71f6-b24e-4b56-8307-75106aa74b2c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "Y1") (unit 1)
         )
@@ -8854,7 +8823,7 @@
     (pin "1" (uuid 9a4f43a4-0c33-4efc-9f31-9cf00ac7bd11))
     (pin "2" (uuid 86ebb7cb-4b83-4c6e-bb81-a1955a78a966))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX26") (unit 1)
         )
@@ -8891,7 +8860,7 @@
     (pin "1" (uuid c4454dba-7ee1-4f74-a38d-008aee33bdf6))
     (pin "2" (uuid 035acaf1-81e0-4617-8827-351f43d5eba7))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D86") (unit 1)
         )
@@ -8921,7 +8890,7 @@
     )
     (pin "1" (uuid 03a1e557-34f6-4ceb-bb3a-95213cd490fe))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR06") (unit 1)
         )
@@ -8958,7 +8927,7 @@
     (pin "1" (uuid bb6415ad-5dcd-4bf0-b8fb-8c4be6faf43f))
     (pin "2" (uuid cc70652f-8044-4cb2-8fe6-0289f7ec48c8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D61") (unit 1)
         )
@@ -8988,7 +8957,7 @@
     )
     (pin "1" (uuid 95ad60d7-df18-4a5c-94c8-e70f4c5617b6))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR028") (unit 1)
         )
@@ -9019,7 +8988,7 @@
     (pin "1" (uuid 07abd4a4-5247-4349-a980-371fd17188c6))
     (pin "2" (uuid 52824514-93c8-4e2f-9499-f55da81361fe))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "BOOT1") (unit 1)
         )
@@ -9056,7 +9025,7 @@
     (pin "7" (uuid a9fa5b96-17d4-4e85-a704-cd0b55170f6d))
     (pin "8" (uuid 24a7fb64-6539-4dfe-9f2d-fb1e566a7b31))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "U3") (unit 1)
         )
@@ -9093,7 +9062,7 @@
     (pin "1" (uuid 7970ffb8-b253-4e74-a18a-2c5aa8b37a19))
     (pin "2" (uuid 20a9e2f8-c45a-4edc-8a5c-8b0f5b9bf64d))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D40") (unit 1)
         )
@@ -9124,7 +9093,7 @@
     (pin "1" (uuid 93a3c9e1-e473-4a7d-b2ab-564317cb855e))
     (pin "2" (uuid d8ff67f4-1ca2-4599-a87f-1e86fbfa49f3))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX68") (unit 1)
         )
@@ -9161,7 +9130,7 @@
     (pin "1" (uuid d1ce186b-4cbd-4084-b18e-cd7bb8dd68c4))
     (pin "2" (uuid 3f893134-05f3-4f54-8655-a765572704d8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D3") (unit 1)
         )
@@ -9192,7 +9161,7 @@
     (pin "1" (uuid 287af811-caf1-46f4-b869-25dbe15adc75))
     (pin "2" (uuid b4af78ba-0f9c-41d1-b861-864dc111b153))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C13") (unit 1)
         )
@@ -9228,7 +9197,7 @@
     (pin "1" (uuid fa6469f5-6ba4-48a8-85c8-52c432ca62de))
     (pin "2" (uuid 8c8d7572-b706-45fd-9baa-ad7b6ce6b3fd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX17") (unit 1)
         )
@@ -9259,7 +9228,7 @@
     (pin "1" (uuid 377c8620-ce46-4c6d-9381-7468cab69812))
     (pin "2" (uuid 517fd2e9-b95b-4291-b500-0f737c5c6788))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX83") (unit 1)
         )
@@ -9296,7 +9265,7 @@
     (pin "1" (uuid 9eef0a0a-5105-41d4-b763-2da44a422fc0))
     (pin "2" (uuid 22beaf52-1f23-4352-8344-43c77113a834))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D73") (unit 1)
         )
@@ -9327,7 +9296,7 @@
     (pin "1" (uuid 7dd8e709-148c-4a04-8e8c-1c08ffbc0ba0))
     (pin "2" (uuid 814d6708-ccb8-4833-ab27-cd98faad761f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX51") (unit 1)
         )
@@ -9364,7 +9333,7 @@
     (pin "1" (uuid fe1a7291-c949-4573-b66e-4d73d63b949d))
     (pin "2" (uuid 793cce4a-6e3d-4dbd-9ed2-4b65af05c3e9))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D77") (unit 1)
         )
@@ -9395,7 +9364,7 @@
     (pin "1" (uuid 8e55a501-9309-4f27-be36-f2b625af36f4))
     (pin "2" (uuid 4df52b5f-c02e-49c7-abdf-a5f3a8a668dd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX87") (unit 1)
         )
@@ -9426,7 +9395,7 @@
     (pin "1" (uuid f4b4e822-bf97-41e3-8b65-fe7f60d0d971))
     (pin "2" (uuid be5512d9-cc8e-4564-bb1a-1c0a3ae71b07))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX27") (unit 1)
         )
@@ -9455,7 +9424,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "S4") (unit 1)
         )
@@ -9486,7 +9455,7 @@
     (pin "1" (uuid b8b14fed-8555-4e1c-84b1-98ea93d4d91c))
     (pin "2" (uuid 90ce2236-6495-4c0d-b7eb-71ce61ae8810))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX32") (unit 1)
         )
@@ -9517,7 +9486,7 @@
     (pin "1" (uuid 0c965590-525e-464d-b870-3d8ea020c658))
     (pin "2" (uuid f50ed233-a4fa-4d38-a03c-5b1bc6d78de3))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX50") (unit 1)
         )
@@ -9548,7 +9517,7 @@
     (pin "1" (uuid 2623477b-6730-41cf-bb00-36023cd90a88))
     (pin "2" (uuid d9be7e7f-defa-4d89-8b8b-ea05191e8623))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX4") (unit 1)
         )
@@ -9579,7 +9548,7 @@
     (pin "1" (uuid f5e011ea-df0b-47ce-a3ff-23f83705b9f0))
     (pin "2" (uuid a8d4f676-ad89-4927-aa8e-9f13635fbd5a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX41") (unit 1)
         )
@@ -9616,7 +9585,7 @@
     (pin "1" (uuid d001ec0f-8c79-454b-97bf-2009bff997f4))
     (pin "2" (uuid 81d5d0e0-e3ca-499d-9eff-1ba9264aa8bd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D28") (unit 1)
         )
@@ -9647,7 +9616,7 @@
     (pin "1" (uuid bf7c01e0-94e1-4acb-b76c-dfe5942f3a03))
     (pin "2" (uuid 97f2e90b-3730-4e4a-97ef-35b716173c2d))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX57") (unit 1)
         )
@@ -9678,7 +9647,7 @@
     (pin "1" (uuid a68212b9-b7b7-404b-b419-b70fef46556a))
     (pin "2" (uuid 0b395b33-e164-4c92-8d51-95a3f6cd2700))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX16") (unit 1)
         )
@@ -9715,7 +9684,7 @@
     (pin "1" (uuid 7449d3df-4b6f-4a07-9153-fd46c6f5bd67))
     (pin "2" (uuid 361213ef-777d-4888-b77b-51e27e3912fa))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D16") (unit 1)
         )
@@ -9746,7 +9715,7 @@
     (pin "1" (uuid 9da3d8ce-cda5-406f-9705-97cef1e95c31))
     (pin "2" (uuid 6864958c-74b9-4195-8baf-4321bf3deac2))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX73") (unit 1)
         )
@@ -9783,7 +9752,7 @@
     (pin "1" (uuid d6a0027f-0f3e-49a3-8ed2-3ab0bb8a372e))
     (pin "2" (uuid 3860b48a-0e65-4208-b4ba-ea98e504d629))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D34") (unit 1)
         )
@@ -9813,7 +9782,7 @@
     )
     (pin "1" (uuid f1259a43-6d43-4028-a126-71ecd61f6502))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR029") (unit 1)
         )
@@ -9850,7 +9819,7 @@
     (pin "1" (uuid a2675667-35df-4135-ad02-a7d4626fe3a8))
     (pin "2" (uuid 9d2acb3f-1586-47f1-a736-f068a59d7524))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D21") (unit 1)
         )
@@ -9881,7 +9850,7 @@
     (pin "1" (uuid 5d3418ad-b172-47ba-ab70-484aad04fb32))
     (pin "2" (uuid 7b66c5d8-4cec-4618-a1f8-6fd02cd59062))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX15") (unit 1)
         )
@@ -9912,7 +9881,7 @@
     (pin "1" (uuid 5d124999-d33a-4fdb-964a-c3df86c2e7ac))
     (pin "2" (uuid 27210aa7-c232-41ec-bdc3-266e92e8cbe2))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "RESET1") (unit 1)
         )
@@ -9943,7 +9912,7 @@
     (pin "1" (uuid 199f1c53-bb33-4e8d-9d9b-6996fa1e3416))
     (pin "2" (uuid faa4fcec-104a-4539-a57e-ff2e0cd7ea90))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX75") (unit 1)
         )
@@ -9980,7 +9949,7 @@
     (pin "1" (uuid e10c8e8f-7a55-4fcb-845b-d29046562443))
     (pin "2" (uuid 3cd7b2ac-e39d-454d-8b03-95d1445a9e62))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D31") (unit 1)
         )
@@ -10017,7 +9986,7 @@
     (pin "1" (uuid 1f138e42-10cd-467c-b5d3-9187a200c685))
     (pin "2" (uuid 1415392b-f9fe-4305-bb5d-cde730fff160))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D44") (unit 1)
         )
@@ -10047,7 +10016,7 @@
     )
     (pin "1" (uuid 78882382-8e25-4c56-b2ce-661bddd89eef))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR021") (unit 1)
         )
@@ -10084,7 +10053,7 @@
     (pin "1" (uuid 2f412049-a3d2-4c0f-91ca-c987f10f5998))
     (pin "2" (uuid d9b0e73e-be27-46fa-9810-572d893739f4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D15") (unit 1)
         )
@@ -10115,7 +10084,7 @@
     (pin "1" (uuid 6ae6c16f-3b6b-4a6a-b80a-563ced93c22e))
     (pin "2" (uuid c3453da4-ff81-4075-bad7-7500ffcf7abb))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX29") (unit 1)
         )
@@ -10146,7 +10115,7 @@
     (pin "1" (uuid 041f2179-1edc-489f-b077-c37d0e101924))
     (pin "2" (uuid 9fd058ae-975e-4733-8590-71f9d303cc86))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX48") (unit 1)
         )
@@ -10183,7 +10152,7 @@
     (pin "1" (uuid ab760bef-d9ef-4c0f-a217-b3df71c0539c))
     (pin "2" (uuid af2694fb-3cef-41c8-9bab-d40c511b04c6))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D45") (unit 1)
         )
@@ -10220,7 +10189,7 @@
     (pin "1" (uuid 2d666838-31b3-44ed-aa0e-d5514e1f08d7))
     (pin "2" (uuid d6890c99-3426-4fb0-b9ee-80ff34d14350))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D67") (unit 1)
         )
@@ -10251,7 +10220,7 @@
     (pin "1" (uuid 1e0af6f7-cdb7-4488-83f3-197325212ece))
     (pin "2" (uuid 50acbe9e-806b-47cc-836e-5ce80dd0d93b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX84") (unit 1)
         )
@@ -10282,7 +10251,7 @@
     (pin "1" (uuid abfb920a-a1a8-495e-8d1e-8bf0ebf15ac6))
     (pin "2" (uuid c95e6e73-1b33-4d28-8747-4c73be3e274c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX85") (unit 1)
         )
@@ -10319,7 +10288,7 @@
     (pin "1" (uuid 23cabd38-d004-4c09-bad6-c919c8fb3700))
     (pin "2" (uuid 9f1045bd-16bb-49f3-af6a-d5c7e0b0f9b5))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D60") (unit 1)
         )
@@ -10350,7 +10319,7 @@
     (pin "1" (uuid ccfdd423-fb61-44af-a3af-214dae70c249))
     (pin "2" (uuid 5308fca9-183b-4d62-b037-9cdb642b6380))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX30") (unit 1)
         )
@@ -10387,7 +10356,7 @@
     (pin "1" (uuid e3d29f6f-5b84-473e-9c8c-a872a2210131))
     (pin "2" (uuid a5b9bf70-63ef-4335-9fe6-8c407eca2e4e))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D5") (unit 1)
         )
@@ -10424,7 +10393,7 @@
     (pin "1" (uuid 9a7b77c2-8332-4284-af5d-eca0f70d72c5))
     (pin "2" (uuid 3c13e651-7dae-4723-9643-cb225a7dd2de))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D76") (unit 1)
         )
@@ -10455,7 +10424,7 @@
     (pin "1" (uuid 93fe9d94-3cb5-4fac-9da4-60315e6db4b9))
     (pin "2" (uuid ad445b9b-ac26-4cf1-bf84-e43c197c6876))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX12") (unit 1)
         )
@@ -10484,7 +10453,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "S3") (unit 1)
         )
@@ -10514,7 +10483,7 @@
     )
     (pin "1" (uuid 6aab5bda-1126-435f-9e65-fcc6906b5c58))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR012") (unit 1)
         )
@@ -10545,7 +10514,7 @@
     (pin "1" (uuid 2cc85968-c093-4e3e-abab-b1ad1765a93d))
     (pin "2" (uuid 7699f470-72f1-4972-bcd8-a017f5c7927b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX9") (unit 1)
         )
@@ -10576,7 +10545,7 @@
     (pin "1" (uuid 54aae4c8-a0af-40ec-8199-87350310d326))
     (pin "2" (uuid f008c4e2-228f-45ec-8aef-99b47da02d91))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX46") (unit 1)
         )
@@ -10607,7 +10576,7 @@
     (pin "1" (uuid 70fff755-028a-40dc-94d9-21d8b9928c7f))
     (pin "2" (uuid 2b1cb8d0-cce3-40bf-ad74-a4e0545b13af))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX25") (unit 1)
         )
@@ -10615,6 +10584,37 @@
       (project "gear"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 63.5 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e5b76018-ff54-4793-8fd6-0a195d0edefd)
+    (property "Reference" "C4" (at 66.04 144.7863 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "100n" (at 66.04 147.3263 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 63.5 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 63.5 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cd34610b-0af4-4fae-986c-c7a743ba110b))
+    (pin "2" (uuid 158921bc-1c5b-44ba-a2be-6df341ab68b0))
+    (instances
+      (project "Gear80 hotswap"
+        (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
+          (reference "C4") (unit 1)
+        )
+      )
+      (project "gear"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -10638,7 +10638,7 @@
     (pin "1" (uuid b2432bbc-76b7-4918-9042-e964e2fc690f))
     (pin "2" (uuid 3c301750-5715-476f-8e94-4d6f8bd90d3c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX24") (unit 1)
         )
@@ -10675,7 +10675,7 @@
     (pin "1" (uuid bd6f2f0b-57e6-4757-b10f-87e74122be64))
     (pin "2" (uuid f62b3daa-6757-45a3-8ee1-5a85380d599f))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D1") (unit 1)
         )
@@ -10706,7 +10706,7 @@
     (pin "1" (uuid ac90b107-710a-4cd3-94c9-059524b5d62a))
     (pin "2" (uuid 63c8c5fb-b72a-4512-a216-4c2062ab521c))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C11") (unit 1)
         )
@@ -10743,7 +10743,7 @@
     (pin "1" (uuid 98d03326-cdae-4e1c-863d-238e74444681))
     (pin "2" (uuid 178592ca-e5d4-4e2b-abe3-122fd45baa81))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D32") (unit 1)
         )
@@ -10774,7 +10774,7 @@
     (pin "1" (uuid 5da241be-68c6-4703-96d0-a20c509c06b4))
     (pin "2" (uuid b055a03e-01db-4185-b51b-76f27ef9bd18))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX59") (unit 1)
         )
@@ -10805,7 +10805,7 @@
     (pin "1" (uuid 82132ee8-96e2-403f-8b2f-f150abb8ae4d))
     (pin "2" (uuid 9a1b2a42-4a6d-4715-afb7-a7bf06b328b7))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C3") (unit 1)
         )
@@ -10836,7 +10836,7 @@
     (pin "1" (uuid a517ded7-16b2-4bc2-9885-86fb0545dff8))
     (pin "2" (uuid 479c3871-7474-4507-a654-bffbbaf857ae))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R1") (unit 1)
         )
@@ -10867,7 +10867,7 @@
     (pin "1" (uuid 536ad5e1-5ced-4e9f-9200-d4629f01b8da))
     (pin "2" (uuid d97c0a44-2e3d-4582-a0ef-8d4b121782a8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX33") (unit 1)
         )
@@ -10897,7 +10897,7 @@
     )
     (pin "1" (uuid 732190bd-c06c-47ed-ae1f-30e1e0f3c2fd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR025") (unit 1)
         )
@@ -10934,7 +10934,7 @@
     (pin "1" (uuid 581536f6-f4f9-4950-91fc-77c095e052b3))
     (pin "2" (uuid 7e49812a-2c6f-44d8-aadb-56b1e9ce4dfd))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D11") (unit 1)
         )
@@ -10964,7 +10964,7 @@
     )
     (pin "1" (uuid f8b7edca-28d0-4ab8-aff4-8f7aae892ca1))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR026") (unit 1)
         )
@@ -10995,7 +10995,7 @@
     (pin "1" (uuid 0a9de302-d05c-4df5-a6d6-b1c526fa1509))
     (pin "2" (uuid e3481be0-5768-4f8a-bd03-c64ba7be2da0))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX20") (unit 1)
         )
@@ -11026,7 +11026,7 @@
     (pin "1" (uuid 4dfac04e-07f4-44ad-abec-a0889db1a919))
     (pin "2" (uuid c38135d2-a12d-47b5-9e8a-cf277cbd0493))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX74") (unit 1)
         )
@@ -11057,7 +11057,7 @@
     (pin "1" (uuid e7c5de12-a672-4d81-b13a-a91f8d94f926))
     (pin "2" (uuid 203fa610-02cc-47cb-a049-d109e9a5bf00))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX8") (unit 1)
         )
@@ -11094,7 +11094,7 @@
     (pin "1" (uuid 51e0e0db-a877-459d-9f43-8c4fc5818cb5))
     (pin "2" (uuid 5ebfdcc1-dc20-4873-aa7c-52a24018f1c4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D63") (unit 1)
         )
@@ -11131,7 +11131,7 @@
     (pin "1" (uuid 4c7477e2-2779-4483-8580-301e153f7440))
     (pin "2" (uuid 60d4777d-d9b3-4507-afef-f641bb47d6f8))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D19") (unit 1)
         )
@@ -11162,7 +11162,7 @@
     (pin "1" (uuid a1e6a374-7c17-4f9f-a09c-7f43d2f11343))
     (pin "2" (uuid fd5f3a4d-63da-436b-9482-62ea264043a9))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX6") (unit 1)
         )
@@ -11193,7 +11193,7 @@
     (pin "1" (uuid ef2545fe-1eda-43e3-88a1-0a722980901a))
     (pin "2" (uuid 3a294f28-a0ea-47ff-b3d7-f4d60397a61a))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "MX71") (unit 1)
         )
@@ -11230,7 +11230,7 @@
     (pin "1" (uuid b707afa0-cd25-4980-869b-972c9e1d682b))
     (pin "2" (uuid 551fb203-aa6c-448b-af99-a3b9627f8f3b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D62") (unit 1)
         )
@@ -11260,7 +11260,7 @@
     )
     (pin "1" (uuid 0844288a-87ae-46a8-a8ec-db8e42bb72a4))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "#PWR04") (unit 1)
         )
@@ -11297,7 +11297,7 @@
     (pin "1" (uuid 83653fbc-44fd-46ab-ab00-b80a798a27e4))
     (pin "2" (uuid eb9d22ee-3c5f-4228-8885-c27c9d727005))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D18") (unit 1)
         )
@@ -11328,7 +11328,7 @@
     (pin "1" (uuid 3a49f1b6-c5d7-44bf-9f66-917f4aa5e1df))
     (pin "2" (uuid 681be92b-e204-4e28-ab7e-c77d18835b2e))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "C9") (unit 1)
         )
@@ -11365,7 +11365,7 @@
     (pin "1" (uuid bb168889-f87a-44b7-b7db-052280b4ce70))
     (pin "2" (uuid c8be7963-fab0-4a13-bdda-8b3ad8847613))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "D14") (unit 1)
         )
@@ -11396,7 +11396,7 @@
     (pin "1" (uuid d33a3040-9d66-44fe-97d6-8307ba054a44))
     (pin "2" (uuid 0ae5bdb0-b525-4b26-9000-a82d2ed0bf3b))
     (instances
-      (project "NEW"
+      (project "Gear80 hotswap"
         (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
           (reference "R8") (unit 1)
         )
