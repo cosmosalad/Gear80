@@ -9959,32 +9959,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 118.11 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9ef71490-30ac-463a-99f0-2991cc60ef2d)
-    (property "Reference" "C5" (at 120.65 144.7863 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "10u" (at 120.65 147.3263 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 118.11 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 118.11 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8a09cd64-4ccd-4c50-96a5-13ac5fd93eb1))
-    (pin "2" (uuid feadf09f-3728-4a02-aa55-0fa0f8e9331f))
-    (instances
-      (project "Gear80-A_1.0mm"
-        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
-          (reference "C5") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 256.54 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a0984055-c36d-4fba-88b1-2d7c0bc5dc48)
@@ -11374,6 +11348,32 @@
       (project "Gear80-A_1.0mm"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "D85") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 118.11 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid c986a16a-ae20-483e-8ba0-96d6ec306ea9)
+    (property "Reference" "C5" (at 120.65 144.7863 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "100n" (at 120.65 147.3263 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 118.11 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 118.11 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid cf40f4bc-7eaa-45f3-bf43-70cbc2d62f88))
+    (pin "2" (uuid 9dee0c39-89c4-4da4-b98d-ea9176cad0c6))
+    (instances
+      (project "Gear80-A_1.0mm"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "C5") (unit 1)
         )
       )
     )
