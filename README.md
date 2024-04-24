@@ -47,7 +47,7 @@ It may differ from the sample photo and file.<br/>
 <br/>
 
 ![Gear80-A_1.0mm_kicad](https://github.com/cosmosalad/Gear80/blob/main/img/Gear80-A_1.0mm_kicad.png)<br/>
-![Gear80-A_1.0mm_real](https://github.com/cosmosalad/Gear80/blob/main/img/Gear80%20hotswap_real.jpg)<br/>
+![Gear80-A_1 0mm_real](https://github.com/cosmosalad/Gear80/assets/45204109/957ecb86-aab2-461e-96b4-2e60685837a0)<br/>
 [More pcb ](https://github.com/cosmosalad/Gear80/tree/main/pcb)<br/>
 
 This pcb was made by jlcpcb.(list of pcb parts [main](https://github.com/cosmosalad/Gear80/blob/main/pcb/Gear80%20solder/part%20list.md), [daughterboard](https://github.com/cosmosalad/Gear80/blob/main/pcb/daughterboard/part%20list.md/))<br/><br/>
