@@ -65,10 +65,10 @@ This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial
 
 <p align="center">
   <a href="https://youtube.com/embed/aFRDwg6jCEE?feature=shared">
-    <img src="http://img.youtube.com/vi/aFRDwg6jCEE/0.jpg" alt="gear80">
+    <img src="http://img.youtube.com/vi/aFRDwg6jCEE/0.jpg" alt="gear80" width: 49%>
   </a>
   <a href="https://youtube.com/embed/lhAkio-YmMc?feature=shared">
-    <img src="http://img.youtube.com/vi/lhAkio-YmMc/0.jpg" alt="gear80_lite">
+    <img src="http://img.youtube.com/vi/lhAkio-YmMc/0.jpg" alt="gear80_lite" width: 49%>
   </a>
 </p>
 <br/>
