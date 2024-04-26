@@ -60,9 +60,10 @@ It may differ from the sample photo and file.<br/>
 
 This pcb was made by jlcpcb.(list of pcb parts [main](https://github.com/cosmosalad/Gear80/blob/main/pcb/Gear80%20solder/part%20list.md), [daughterboard](https://github.com/cosmosalad/Gear80/blob/main/pcb/daughterboard/part%20list.md/))<br/><br/>
 
-This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial) as firmware<br/><br/>
+This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial) as firmware<br/><br/><br/>
 
 
+- typing sound
 <p align="center">
   <a href="https://youtube.com/embed/aFRDwg6jCEE?feature=shared">
     <img src="http://img.youtube.com/vi/aFRDwg6jCEE/0.jpg" alt="gear80" width: 49%>
