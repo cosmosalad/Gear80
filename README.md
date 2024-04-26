@@ -1,15 +1,24 @@
 # Gear80<br/>
 The Gear80 is a 80% keyboard based on the rp2040.
 
+<br/>
 
-알루미늄 하우징은 2달안에 제작할듯 합니다.<br/>
 - gear80_wkl (cnc)
 
-<br/><br/>
+<p align="center">
+  <img src="img/gear80_wkl_cnc01.jpg" style="width: 25%;"/>  
+  <img src="img/gear80_wkl_cnc02.jpg" style="width: 73%;"/>
 
+  <img src="img/gear80_wkl_cnc03.jpg" style="width: 30%;"/>  
+  <img src="img/gear80_wkl_cnc04.jpg" style="width: 67%;"/>
+
+  <img src="img/gear80_wkl_cnc06.jpg" style="width: 35%;"/>  
+  <img src="img/gear80_wkl_cnc05.jpg" style="width: 62%;"/>
+</p>
+
+<br/><br/>
 
 - gear80_wkl (sla print)
-<br/><br/>
 
 <p align="center">
   <img src="img/gear80_wkl_sla02.jpg" style="width: 25%;"/>  
