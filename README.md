@@ -3,7 +3,7 @@ The Gear80 is a 80% keyboard based on the rp2040.
 
 <br/>
 
-- gear80_wkl (cnc)
+- gear80_wkl_Aluminum 6061 (CNC, Bead blasting-100 mesh + Anodizing-Black-Matte)
 
 <p align="center">
   <img src="img/gear80_wkl_cnc01.jpg" style="width: 25%;"/>  
