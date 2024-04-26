@@ -1,3 +1,5 @@
+[자작 과정(kr)](https://blog.naver.com/cosmosalad/223262540878)<br/><br/>
+
 # Gear80<br/>
 Gear80 is a 80% keyboard based on the rp2040.
 
