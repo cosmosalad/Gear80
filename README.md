@@ -68,9 +68,9 @@ This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial
 - typing sound
 <p align="center">
   <a href="https://youtube.com/embed/aFRDwg6jCEE?feature=shared">
-    <img src="http://img.youtube.com/vi/aFRDwg6jCEE/0.jpg" alt="gear80" style=width: 46%>
-  <a href="https://youtube.com/embed/lhAkio-YmMc?feature=shared">
-    <img src="http://img.youtube.com/vi/lhAkio-YmMc/0.jpg" alt="gear80_lite" style=width: 46%>
+    <img src="http://img.youtube.com/vi/aFRDwg6jCEE/0.jpg" alt="gear80_full foam" style=width: 46%>
+  <a href="https://youtube.com/embed/MRHb9Hr9hBU?feature=shared">
+    <img src="http://img.youtube.com/vi/MRHb9Hr9hBU/0.jpg" alt="gear80_no foam" style=width: 46%>
   </a>
 </p>
 <br/>
