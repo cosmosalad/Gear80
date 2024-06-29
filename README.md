@@ -29,6 +29,13 @@ Gear80 is a 80% keyboard based on the rp2040.
 
 <br/><br/>
 
+- Gear80-A_1.0mm (sla print)
+
+<p align="center">
+  <img src="img/Gear80-A_1.0mm01.jpg" style="width: 25%;"/>  
+  <img src="img/Gear80-A_1.0mm02.jpg" style="width: 72%;"/>
+</p>
+
 ## Layout<br/>
 
 - gear80 hotswap, solder
