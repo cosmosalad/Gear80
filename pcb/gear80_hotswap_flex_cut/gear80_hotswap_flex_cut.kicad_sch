@@ -5127,7 +5127,7 @@
     )
     (pin "1" (uuid 9f1454bb-7d78-400c-821d-39afdeef22d9))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR01") (unit 1)
         )
@@ -5169,7 +5169,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D53") (unit 1)
         )
@@ -5205,7 +5205,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX82") (unit 1)
         )
@@ -5247,7 +5247,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D32") (unit 1)
         )
@@ -5283,7 +5283,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX70") (unit 1)
         )
@@ -5319,7 +5319,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX31") (unit 1)
         )
@@ -5349,7 +5349,7 @@
     )
     (pin "1" (uuid f3b28c0b-cd1c-4d1c-ad10-19708ce15f33))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR018") (unit 1)
         )
@@ -5391,7 +5391,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D60") (unit 1)
         )
@@ -5427,7 +5427,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX93") (unit 1)
         )
@@ -5458,7 +5458,7 @@
     (pin "1" (uuid 9a2df36d-d6dd-4542-8315-3edffe19bad0))
     (pin "2" (uuid 35b0e989-bb75-4b50-8473-dbc9ecbda134))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R6") (unit 1)
         )
@@ -5500,7 +5500,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D73") (unit 1)
         )
@@ -5542,7 +5542,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D30") (unit 1)
         )
@@ -5584,7 +5584,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D20") (unit 1)
         )
@@ -5615,7 +5615,7 @@
     (pin "1" (uuid 7c053623-e135-4a65-ad74-d2b95ef99f40))
     (pin "2" (uuid 952b2689-82f3-4615-b041-93141df5d771))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R7") (unit 1)
         )
@@ -5651,7 +5651,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX79") (unit 1)
         )
@@ -5687,7 +5687,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX78") (unit 1)
         )
@@ -5723,7 +5723,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX38") (unit 1)
         )
@@ -5754,7 +5754,7 @@
     (pin "1" (uuid 63a2a515-42fe-4bf8-aa76-b5b0400cb363))
     (pin "2" (uuid 9db1671f-eed7-4576-834f-20b3c2e4f5be))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C1") (unit 1)
         )
@@ -5785,7 +5785,7 @@
     (pin "1" (uuid a7aba4ff-e53a-4d8e-9da3-1705265f7ea6))
     (pin "2" (uuid 64f86d18-771b-4534-b7a1-8fdf649e9b8d))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R5") (unit 1)
         )
@@ -5827,7 +5827,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D62") (unit 1)
         )
@@ -5859,7 +5859,7 @@
     (pin "2" (uuid 8a219f71-0270-4d73-b5bd-e178c576b5bd))
     (pin "3" (uuid 58b20973-1350-467d-88c5-9376a1752caa))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "U2") (unit 1)
         )
@@ -5895,7 +5895,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX88") (unit 1)
         )
@@ -5937,7 +5937,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D28") (unit 1)
         )
@@ -5973,7 +5973,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX44") (unit 1)
         )
@@ -6002,7 +6002,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "S7") (unit 1)
         )
@@ -6044,7 +6044,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D82") (unit 1)
         )
@@ -6075,7 +6075,7 @@
     (pin "1" (uuid afa4d462-1043-4139-9517-87fe05b9d4c9))
     (pin "2" (uuid 3a2e312d-3bd6-4554-ba54-35f95af96db2))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C8") (unit 1)
         )
@@ -6111,7 +6111,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX22") (unit 1)
         )
@@ -6147,7 +6147,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX2") (unit 1)
         )
@@ -6188,7 +6188,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R11") (unit 1)
         )
@@ -6201,6 +6201,52 @@
       (project "gear"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "R2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Leonardo_Rev3e:L-EUL1812") (at 171.45 356.87 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 231f0b85-cb09-4a04-b4b2-af220a7636c3)
+    (property "Reference" "F1" (at 167.64 355.3714 90)
+      (effects (font (size 1.778 1.5113)) (justify left bottom))
+    )
+    (property "Value" "MF-MSMF050-2" (at 167.64 353.06 90)
+      (effects (font (size 1.778 1.5113)) (justify left bottom))
+    )
+    (property "Footprint" "Fuse:Fuse_1812_4532Metric" (at 171.45 356.87 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 171.45 356.87 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6ab3adfc-26e7-427c-ba2f-0b8698d8944c))
+    (pin "2" (uuid 3a856009-1861-4fdf-a2bc-a8773f8d164b))
+    (instances
+      (project "Leonardo_Rev3e"
+        (path "/2a51061c-e7a1-4f40-b895-9503c97a61e8"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "daughterboard_ver0.2"
+        (path "/98c574d5-c74a-4038-abd3-a05a2c532b24"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "gear80_hotswap_flex_cut"
+        (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
+          (reference "F2") (unit 1)
+        )
+      )
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "splite"
+        (path "/f857943d-9657-42c7-8c53-ac71e4319830"
+          (reference "F1") (unit 1)
         )
       )
     )
@@ -6235,7 +6281,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D69") (unit 1)
         )
@@ -6265,7 +6311,7 @@
     )
     (pin "1" (uuid abc75f97-b464-4305-855c-fbb7a4aa00b3))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR040") (unit 1)
         )
@@ -6291,7 +6337,7 @@
     (pin "1" (uuid 0898f7a9-6b30-4c8d-8d5a-35e707a278f8))
     (pin "2" (uuid 345d07fc-8cf1-4af7-940c-2c0f769d455a))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C15") (unit 1)
         )
@@ -6325,7 +6371,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "S1") (unit 1)
         )
@@ -6367,7 +6413,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D9") (unit 1)
         )
@@ -6397,7 +6443,7 @@
     )
     (pin "1" (uuid a9b4379e-622d-47c6-9151-c158d67caebf))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR035") (unit 1)
         )
@@ -6448,7 +6494,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "J5") (unit 1)
         )
@@ -6489,7 +6535,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX57") (unit 1)
         )
@@ -6531,7 +6577,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D33") (unit 1)
         )
@@ -6567,7 +6613,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX72") (unit 1)
         )
@@ -6607,7 +6653,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR027") (unit 1)
         )
@@ -6648,7 +6694,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX20") (unit 1)
         )
@@ -6684,7 +6730,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX48") (unit 1)
         )
@@ -6715,7 +6761,7 @@
     (pin "1" (uuid 98df1c1c-64a1-400e-876a-ba664b89d04a))
     (pin "2" (uuid 0075be0f-4b2c-4b97-9ee7-8ca08b280e1f))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C11") (unit 1)
         )
@@ -6751,7 +6797,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX62") (unit 1)
         )
@@ -6793,7 +6839,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D48") (unit 1)
         )
@@ -6829,7 +6875,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX46") (unit 1)
         )
@@ -6865,7 +6911,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX94") (unit 1)
         )
@@ -6901,7 +6947,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX64") (unit 1)
         )
@@ -6932,7 +6978,7 @@
     (pin "1" (uuid aff3ec2c-9170-4ea5-9e82-63307899fd78))
     (pin "2" (uuid 2ab6881d-69c0-4acb-b179-4dffc3936dca))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C14") (unit 1)
         )
@@ -6974,7 +7020,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D76") (unit 1)
         )
@@ -7007,7 +7053,7 @@
     (pin "3" (uuid c54ce7ce-1d47-4723-96b2-987ad24760e8))
     (pin "4" (uuid bf40d856-1678-4404-aca3-4b7a9e4c0175))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "Y1") (unit 1)
         )
@@ -7049,7 +7095,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D2") (unit 1)
         )
@@ -7080,7 +7126,7 @@
     (pin "1" (uuid 24956af3-bcf1-4b49-b459-85ede2002a17))
     (pin "2" (uuid e2cf3c23-74be-4d53-9210-a9e90b762231))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C7") (unit 1)
         )
@@ -7116,7 +7162,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX40") (unit 1)
         )
@@ -7124,6 +7170,52 @@
       (project "gear"
         (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
           (reference "MX1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Leonardo_Rev3e:L-EUL1812") (at 204.47 254 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 39d0c186-6c5e-404f-8cef-a8aee17ef355)
+    (property "Reference" "F1" (at 200.66 252.5014 90)
+      (effects (font (size 1.778 1.5113)) (justify left bottom))
+    )
+    (property "Value" "MF-MSMF050-2" (at 200.66 250.19 90)
+      (effects (font (size 1.778 1.5113)) (justify left bottom))
+    )
+    (property "Footprint" "Fuse:Fuse_1812_4532Metric" (at 204.47 254 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 204.47 254 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid bf236ba2-1178-422b-b1d1-6f67b0356a67))
+    (pin "2" (uuid 3667f2a5-0ab4-4e26-9f44-324727c65eb9))
+    (instances
+      (project "Leonardo_Rev3e"
+        (path "/2a51061c-e7a1-4f40-b895-9503c97a61e8"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "daughterboard_ver0.2"
+        (path "/98c574d5-c74a-4038-abd3-a05a2c532b24"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "gear80_hotswap_flex_cut"
+        (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "gear60_solder"
+        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
+          (reference "F1") (unit 1)
+        )
+      )
+      (project "splite"
+        (path "/f857943d-9657-42c7-8c53-ac71e4319830"
+          (reference "F1") (unit 1)
         )
       )
     )
@@ -7152,7 +7244,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX32") (unit 1)
         )
@@ -7188,7 +7280,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX50") (unit 1)
         )
@@ -7219,7 +7311,7 @@
     (pin "1" (uuid 7b83a7da-864b-4ce4-8acd-70a635133034))
     (pin "2" (uuid 8fed4a91-ca57-40a5-ad76-118e94f7a57e))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C10") (unit 1)
         )
@@ -7255,7 +7347,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX60") (unit 1)
         )
@@ -7295,7 +7387,7 @@
           (reference "#PWR07") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR026") (unit 1)
         )
@@ -7330,7 +7422,7 @@
     )
     (pin "1" (uuid a6e7ee82-1f92-41fb-bd5b-05df8f28e26e))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR030") (unit 1)
         )
@@ -7367,7 +7459,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D21") (unit 1)
         )
@@ -7403,7 +7495,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX17") (unit 1)
         )
@@ -7439,7 +7531,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX75") (unit 1)
         )
@@ -7475,7 +7567,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX34") (unit 1)
         )
@@ -7517,7 +7609,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D44") (unit 1)
         )
@@ -7553,7 +7645,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX67") (unit 1)
         )
@@ -7589,7 +7681,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX21") (unit 1)
         )
@@ -7619,7 +7711,7 @@
     )
     (pin "1" (uuid 33158661-d3f1-4ca3-be1f-e5e9c7e5fa0c))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR031") (unit 1)
         )
@@ -7651,7 +7743,7 @@
     (pin "7" (uuid 62ab241d-1795-406f-a4f9-3c75ce1b6b0a))
     (pin "8" (uuid 4075a2db-4e3c-4996-864b-dbb671dbb69c))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "U3") (unit 1)
         )
@@ -7687,7 +7779,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX45") (unit 1)
         )
@@ -7723,7 +7815,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX4") (unit 1)
         )
@@ -7759,7 +7851,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX41") (unit 1)
         )
@@ -7800,7 +7892,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R10") (unit 1)
         )
@@ -7836,7 +7928,7 @@
     (pin "1" (uuid fa71cfd5-0306-4e16-a4ba-02036c48bfdf))
     (pin "2" (uuid b9e61efd-3b07-4090-995f-95d52d3872e5))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C13") (unit 1)
         )
@@ -7866,7 +7958,7 @@
     )
     (pin "1" (uuid 3dfb7832-a795-4884-9390-d4e352ed0ad1))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR013") (unit 1)
         )
@@ -7895,7 +7987,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "S4") (unit 1)
         )
@@ -7931,7 +8023,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX49") (unit 1)
         )
@@ -7967,7 +8059,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX68") (unit 1)
         )
@@ -7997,7 +8089,7 @@
     )
     (pin "1" (uuid e7715333-e00f-4dae-80fd-bde34ef08de9))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR07") (unit 1)
         )
@@ -8033,7 +8125,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX76") (unit 1)
         )
@@ -8075,7 +8167,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D23") (unit 1)
         )
@@ -8111,7 +8203,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX91") (unit 1)
         )
@@ -8153,7 +8245,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D42") (unit 1)
         )
@@ -8195,7 +8287,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D17") (unit 1)
         )
@@ -8231,7 +8323,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX74") (unit 1)
         )
@@ -8267,7 +8359,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX63") (unit 1)
         )
@@ -8309,7 +8401,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D50") (unit 1)
         )
@@ -8351,7 +8443,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D46") (unit 1)
         )
@@ -8393,7 +8485,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D61") (unit 1)
         )
@@ -8429,7 +8521,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX35") (unit 1)
         )
@@ -8459,7 +8551,7 @@
     )
     (pin "1" (uuid c56d3b00-1b01-4cba-a745-2eec2b18de60))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR06") (unit 1)
         )
@@ -8495,7 +8587,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX36") (unit 1)
         )
@@ -8537,7 +8629,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D68") (unit 1)
         )
@@ -8579,7 +8671,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D34") (unit 1)
         )
@@ -8614,7 +8706,7 @@
           (reference "#PWR020") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR032") (unit 1)
         )
@@ -8650,7 +8742,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX28") (unit 1)
         )
@@ -8692,7 +8784,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D37") (unit 1)
         )
@@ -8737,7 +8829,7 @@
           (reference "U1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "U4") (unit 1)
         )
@@ -8778,7 +8870,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX69") (unit 1)
         )
@@ -8814,7 +8906,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX53") (unit 1)
         )
@@ -8856,7 +8948,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D70") (unit 1)
         )
@@ -8898,7 +8990,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D47") (unit 1)
         )
@@ -8934,7 +9026,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX87") (unit 1)
         )
@@ -8964,7 +9056,7 @@
     )
     (pin "1" (uuid 9483de05-adc7-4d4a-922b-b5082c65ded6))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR012") (unit 1)
         )
@@ -9006,7 +9098,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D77") (unit 1)
         )
@@ -9048,7 +9140,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D85") (unit 1)
         )
@@ -9090,7 +9182,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D18") (unit 1)
         )
@@ -9132,7 +9224,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D43") (unit 1)
         )
@@ -9172,7 +9264,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR024") (unit 1)
         )
@@ -9217,7 +9309,7 @@
           (reference "#PWR02") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR023") (unit 1)
         )
@@ -9252,7 +9344,7 @@
     )
     (pin "1" (uuid dda91f97-7895-468c-a18e-5ddd4d0f3d71))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR09") (unit 1)
         )
@@ -9288,7 +9380,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX3") (unit 1)
         )
@@ -9324,7 +9416,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX51") (unit 1)
         )
@@ -9355,7 +9447,7 @@
     (pin "1" (uuid 7cd2eb5e-aae4-48c7-b261-8c1d1ea83609))
     (pin "2" (uuid afc73344-3631-4ca3-9fb3-7100388a077f))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R4") (unit 1)
         )
@@ -9397,7 +9489,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D56") (unit 1)
         )
@@ -9433,7 +9525,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX1") (unit 1)
         )
@@ -9464,7 +9556,7 @@
     (pin "1" (uuid 14177902-49a7-46e4-80f4-98139665f22d))
     (pin "2" (uuid 1183e838-e383-4d8d-9f9f-c5f1f74aed62))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C3") (unit 1)
         )
@@ -9494,7 +9586,7 @@
     )
     (pin "1" (uuid 65f47d0a-ffff-4f40-8079-5e006ce8da04))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR033") (unit 1)
         )
@@ -9525,7 +9617,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX52") (unit 1)
         )
@@ -9561,7 +9653,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX8") (unit 1)
         )
@@ -9603,7 +9695,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D22") (unit 1)
         )
@@ -9645,7 +9737,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D27") (unit 1)
         )
@@ -9687,7 +9779,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D54") (unit 1)
         )
@@ -9723,7 +9815,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX25") (unit 1)
         )
@@ -9753,7 +9845,7 @@
     )
     (pin "1" (uuid bba0585a-fcf0-4a25-bbdb-7787d9c09d23))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR08") (unit 1)
         )
@@ -9795,7 +9887,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D36") (unit 1)
         )
@@ -9831,7 +9923,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX81") (unit 1)
         )
@@ -9867,7 +9959,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX84") (unit 1)
         )
@@ -9903,7 +9995,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX24") (unit 1)
         )
@@ -9945,7 +10037,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D72") (unit 1)
         )
@@ -9987,7 +10079,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D35") (unit 1)
         )
@@ -10017,7 +10109,7 @@
     )
     (pin "1" (uuid f517fbaa-801b-4479-a849-0c68f515ab66))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR028") (unit 1)
         )
@@ -10053,7 +10145,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX29") (unit 1)
         )
@@ -10095,7 +10187,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D81") (unit 1)
         )
@@ -10125,7 +10217,7 @@
     )
     (pin "1" (uuid 0b072204-6831-42cc-8ff5-5593c64a7d08))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR037") (unit 1)
         )
@@ -10154,7 +10246,7 @@
     (pin "4" (uuid bb6cfaea-960f-4f19-bdbc-f86838419eb5))
     (pin "5" (uuid 0851ce42-3616-4bda-953c-b79ef0a064c4))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "J8") (unit 1)
         )
@@ -10185,7 +10277,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX30") (unit 1)
         )
@@ -10215,7 +10307,7 @@
     )
     (pin "1" (uuid 66e7d674-014b-4ae0-bfe8-7020264d5e15))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR036") (unit 1)
         )
@@ -10239,7 +10331,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "S6") (unit 1)
         )
@@ -10275,7 +10367,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX86") (unit 1)
         )
@@ -10306,7 +10398,7 @@
     (pin "1" (uuid 34962a6a-94f2-465b-aeb2-981bb8af39d8))
     (pin "2" (uuid 0ea15342-329d-4883-99e1-4c16c9e0f0e5))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R2") (unit 1)
         )
@@ -10348,7 +10440,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D29") (unit 1)
         )
@@ -10384,7 +10476,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX58") (unit 1)
         )
@@ -10420,7 +10512,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX65") (unit 1)
         )
@@ -10476,7 +10568,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "J2") (unit 1)
         )
@@ -10517,7 +10609,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX26") (unit 1)
         )
@@ -10553,7 +10645,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX37") (unit 1)
         )
@@ -10595,7 +10687,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D25") (unit 1)
         )
@@ -10637,7 +10729,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D51") (unit 1)
         )
@@ -10679,7 +10771,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D26") (unit 1)
         )
@@ -10715,7 +10807,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX7") (unit 1)
         )
@@ -10745,7 +10837,7 @@
     )
     (pin "1" (uuid cedd41aa-07ad-414c-9b9e-1f6d6d3f521a))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR04") (unit 1)
         )
@@ -10787,7 +10879,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D55") (unit 1)
         )
@@ -10823,7 +10915,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX18") (unit 1)
         )
@@ -10865,7 +10957,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D3") (unit 1)
         )
@@ -10901,7 +10993,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX77") (unit 1)
         )
@@ -10931,7 +11023,7 @@
     )
     (pin "1" (uuid 2a7a7726-ec74-44d1-82f9-61738dfd6939))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR02") (unit 1)
         )
@@ -10961,7 +11053,7 @@
     )
     (pin "1" (uuid 809fea15-0323-482a-8182-d60115a856b7))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR021") (unit 1)
         )
@@ -10993,7 +11085,7 @@
     (pin "2" (uuid 752397e6-266a-494b-be20-018ad8617372))
     (pin "3" (uuid 859d5c4d-ed4f-4a0e-9246-0d12e4033680))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "J3") (unit 1)
         )
@@ -11024,7 +11116,7 @@
     (pin "1" (uuid 4eaaeb2f-3c55-446d-b4cb-60110a7513e4))
     (pin "2" (uuid f9c71c85-2e76-4566-8a74-dd550c12b2e0))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R3") (unit 1)
         )
@@ -11066,7 +11158,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D86") (unit 1)
         )
@@ -11152,7 +11244,7 @@
     (pin "8" (uuid a155453c-125a-409e-9851-e294dfed402d))
     (pin "9" (uuid 96950cdb-b3eb-4288-9f4e-7e1116d838d3))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "U1") (unit 1)
         )
@@ -11188,7 +11280,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX27") (unit 1)
         )
@@ -11224,7 +11316,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX56") (unit 1)
         )
@@ -11260,7 +11352,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX89") (unit 1)
         )
@@ -11296,7 +11388,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX42") (unit 1)
         )
@@ -11337,7 +11429,7 @@
           (reference "R2") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R9") (unit 1)
         )
@@ -11378,7 +11470,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX55") (unit 1)
         )
@@ -11419,7 +11511,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R8") (unit 1)
         )
@@ -11454,7 +11546,7 @@
     )
     (pin "1" (uuid 06bef3fe-4056-42db-be75-d38790da41d1))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR011") (unit 1)
         )
@@ -11484,7 +11576,7 @@
     )
     (pin "1" (uuid 75bc7d50-a8e5-43da-a17e-7fc0b75d0fb8))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR05") (unit 1)
         )
@@ -11526,7 +11618,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D66") (unit 1)
         )
@@ -11556,7 +11648,7 @@
     )
     (pin "1" (uuid 119c0154-cf7f-44e1-a82b-d96824ff9af6))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR038") (unit 1)
         )
@@ -11592,7 +11684,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX66") (unit 1)
         )
@@ -11634,7 +11726,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D10") (unit 1)
         )
@@ -11676,7 +11768,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D87") (unit 1)
         )
@@ -11712,7 +11804,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX90") (unit 1)
         )
@@ -11742,7 +11834,7 @@
     )
     (pin "1" (uuid a98a7e71-fcf1-470e-bfdc-f0017a7ae04c))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR015") (unit 1)
         )
@@ -11772,7 +11864,7 @@
     )
     (pin "1" (uuid 667f497e-77fd-4f3b-9c3a-892458324961))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR039") (unit 1)
         )
@@ -11798,7 +11890,7 @@
     (pin "1" (uuid 68296706-9a28-4bc7-867a-d63408b84c4b))
     (pin "2" (uuid afdde924-0ebf-4269-ba97-4d699539b3fa))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C9") (unit 1)
         )
@@ -11828,7 +11920,7 @@
     )
     (pin "1" (uuid e6322147-27f6-445f-993c-e828077223e4))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR020") (unit 1)
         )
@@ -11859,7 +11951,7 @@
     (pin "1" (uuid c5575820-a049-4ae4-9c94-8936cfdc2198))
     (pin "2" (uuid b907526e-fedf-4d59-949f-9cabc4c70b0a))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C6") (unit 1)
         )
@@ -11895,7 +11987,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX19") (unit 1)
         )
@@ -11925,7 +12017,7 @@
     )
     (pin "1" (uuid ef03ceda-1299-4576-be41-116ce518f5a2))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR03") (unit 1)
         )
@@ -11954,7 +12046,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "S3") (unit 1)
         )
@@ -11990,7 +12082,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX80") (unit 1)
         )
@@ -12026,7 +12118,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX59") (unit 1)
         )
@@ -12057,7 +12149,7 @@
     (pin "1" (uuid e093cad7-d04a-4a82-a80c-1cc09fcf1637))
     (pin "2" (uuid e8afeaab-82da-4d67-bfa1-dcb78f16c5c7))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C4") (unit 1)
         )
@@ -12099,7 +12191,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D38") (unit 1)
         )
@@ -12141,7 +12233,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D6") (unit 1)
         )
@@ -12172,7 +12264,7 @@
     (pin "1" (uuid b6bc5c3b-8ed8-49fa-8de4-508fc705e99c))
     (pin "2" (uuid b57ebb70-06d5-4a42-bd90-fb5da37c1577))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C16") (unit 1)
         )
@@ -12185,66 +12277,6 @@
       (project "TKL_Video"
         (path "/d1dc7af6-17d2-414a-9525-38c043d67317"
           (reference "C3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Leonardo_Rev3e:L-EUL1812") (at 171.45 356.87 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid bd542efe-512b-444d-9cce-b5190974a8b6)
-    (property "Reference" "F1" (at 167.64 355.3714 90)
-      (effects (font (size 1.778 1.5113)) (justify left bottom))
-    )
-    (property "Value" "MF-MSMF050-2 500mA" (at 167.64 353.06 90)
-      (effects (font (size 1.778 1.5113)) (justify left bottom))
-    )
-    (property "Footprint" "Fuse:Fuse_2010_5025Metric" (at 171.45 356.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.bourns.com/docs/product-datasheets/mf-msmf.pdf" (at 171.45 356.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Manufacturer" "Bourns" (at 171.45 356.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Manufacturer_ref" "MF-MSMF050-2" (at 171.45 356.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Digikey_ref" "MF-MSMF050-2CT-ND" (at 171.45 356.87 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7f83bacd-5814-4bee-991c-d07ef620a907))
-    (pin "2" (uuid 8216c19f-6c6e-4261-a2cc-87db6a7b12f4))
-    (instances
-      (project "Leonardo_Rev3e"
-        (path "/2a51061c-e7a1-4f40-b895-9503c97a61e8"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "NEW"
-        (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "daughterboard"
-        (path "/98c574d5-c74a-4038-abd3-a05a2c532b24"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "gear85"
-        (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
-          (reference "F2") (unit 1)
-        )
-      )
-      (project "daughterboard"
-        (path "/a7a726c5-2df0-4169-880c-ad4d9467e583"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "gear"
-        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
-          (reference "F1") (unit 1)
         )
       )
     )
@@ -12268,7 +12300,7 @@
     (pin "1" (uuid 96920b2f-03ac-48ad-9e72-6aad568b8386))
     (pin "2" (uuid 90ebfd4f-4281-49e0-9201-fe1a931935aa))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C2") (unit 1)
         )
@@ -12310,7 +12342,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D49") (unit 1)
         )
@@ -12352,7 +12384,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D31") (unit 1)
         )
@@ -12394,7 +12426,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D57") (unit 1)
         )
@@ -12436,7 +12468,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D7") (unit 1)
         )
@@ -12478,7 +12510,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D24") (unit 1)
         )
@@ -12514,7 +12546,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX83") (unit 1)
         )
@@ -12550,7 +12582,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX47") (unit 1)
         )
@@ -12586,7 +12618,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX6") (unit 1)
         )
@@ -12617,7 +12649,7 @@
     (pin "1" (uuid f465a384-e574-42b5-9ab4-5a0eb4b34ea4))
     (pin "2" (uuid bdface23-4591-4435-97b1-d4742595881e))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C12") (unit 1)
         )
@@ -12660,7 +12692,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "J4") (unit 1)
         )
@@ -12707,7 +12739,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D78") (unit 1)
         )
@@ -12747,7 +12779,7 @@
           (reference "#PWR01") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR022") (unit 1)
         )
@@ -12782,7 +12814,7 @@
     )
     (pin "1" (uuid 6571396e-2bb0-430b-9ef5-aaac697706f7))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR010") (unit 1)
         )
@@ -12824,7 +12856,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D67") (unit 1)
         )
@@ -12866,7 +12898,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D8") (unit 1)
         )
@@ -12904,7 +12936,7 @@
           (reference "J3") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "J1") (unit 1)
         )
@@ -12946,7 +12978,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D88") (unit 1)
         )
@@ -12988,7 +13020,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D59") (unit 1)
         )
@@ -13024,7 +13056,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX85") (unit 1)
         )
@@ -13066,7 +13098,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D75") (unit 1)
         )
@@ -13108,7 +13140,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D79") (unit 1)
         )
@@ -13144,7 +13176,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX10") (unit 1)
         )
@@ -13186,7 +13218,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D19") (unit 1)
         )
@@ -13222,7 +13254,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX43") (unit 1)
         )
@@ -13264,7 +13296,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D5") (unit 1)
         )
@@ -13295,7 +13327,7 @@
     (pin "1" (uuid 14de9166-0738-45d0-897c-176941e474f1))
     (pin "2" (uuid 20dd94f9-ca5f-4e3d-afd5-7c4fe7460b39))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "C5") (unit 1)
         )
@@ -13330,7 +13362,7 @@
           (reference "#PWR024") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR029") (unit 1)
         )
@@ -13372,7 +13404,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D63") (unit 1)
         )
@@ -13414,7 +13446,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D65") (unit 1)
         )
@@ -13450,7 +13482,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX9") (unit 1)
         )
@@ -13492,7 +13524,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D40") (unit 1)
         )
@@ -13528,7 +13560,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX73") (unit 1)
         )
@@ -13570,7 +13602,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D45") (unit 1)
         )
@@ -13606,7 +13638,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX95") (unit 1)
         )
@@ -13642,7 +13674,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX33") (unit 1)
         )
@@ -13684,7 +13716,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D58") (unit 1)
         )
@@ -13726,7 +13758,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D4") (unit 1)
         )
@@ -13756,7 +13788,7 @@
     )
     (pin "1" (uuid 7e9bd88d-6863-4383-ad4d-0b7aecc93579))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR017") (unit 1)
         )
@@ -13801,7 +13833,7 @@
           (reference "U1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "U5") (unit 1)
         )
@@ -13842,7 +13874,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX61") (unit 1)
         )
@@ -13873,7 +13905,7 @@
     (pin "1" (uuid 93db27b8-a040-452c-8106-2d868d5f805a))
     (pin "2" (uuid 94398223-178d-419e-971b-032e37115a70))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "RESET1") (unit 1)
         )
@@ -13920,7 +13952,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D41") (unit 1)
         )
@@ -13962,7 +13994,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D74") (unit 1)
         )
@@ -13991,7 +14023,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "S5") (unit 1)
         )
@@ -14022,7 +14054,7 @@
     (pin "1" (uuid aadb74f2-82e7-4298-b7dd-2c1a5154358b))
     (pin "2" (uuid 616d9c44-922c-4854-9f18-95bc7c643e6a))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "BOOT1") (unit 1)
         )
@@ -14035,66 +14067,6 @@
       (project "RP2040-Guide"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97"
           (reference "SW1") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Leonardo_Rev3e:L-EUL1812") (at 204.47 254 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid e0fd2aea-e0ae-4e8c-8bce-e857e09cc93e)
-    (property "Reference" "F1" (at 200.66 252.5014 90)
-      (effects (font (size 1.778 1.5113)) (justify left bottom))
-    )
-    (property "Value" "MF-MSMF050-2 500mA" (at 200.66 250.19 90)
-      (effects (font (size 1.778 1.5113)) (justify left bottom))
-    )
-    (property "Footprint" "Fuse:Fuse_2010_5025Metric" (at 204.47 254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.bourns.com/docs/product-datasheets/mf-msmf.pdf" (at 204.47 254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Manufacturer" "Bourns" (at 204.47 254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Manufacturer_ref" "MF-MSMF050-2" (at 204.47 254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Digikey_ref" "MF-MSMF050-2CT-ND" (at 204.47 254 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d1cf6e84-4bba-4ff3-9cc8-17b0ea57a9e8))
-    (pin "2" (uuid 5ad161e2-c641-4542-beff-5945ac03473f))
-    (instances
-      (project "Leonardo_Rev3e"
-        (path "/2a51061c-e7a1-4f40-b895-9503c97a61e8"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "NEW"
-        (path "/3cbd346f-f2f7-49f7-a092-ced5397d72c6"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "new daughterboard"
-        (path "/98c574d5-c74a-4038-abd3-a05a2c532b24"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "gear85"
-        (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "daughterboard"
-        (path "/a7a726c5-2df0-4169-880c-ad4d9467e583"
-          (reference "F1") (unit 1)
-        )
-      )
-      (project "gear"
-        (path "/b7ecd40f-fbd1-4363-aa36-fbfbff6aee59"
-          (reference "F1") (unit 1)
         )
       )
     )
@@ -14122,7 +14094,7 @@
           (reference "#PWR024") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR034") (unit 1)
         )
@@ -14164,7 +14136,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D84") (unit 1)
         )
@@ -14206,7 +14178,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D64") (unit 1)
         )
@@ -14246,7 +14218,7 @@
           (reference "#PWR05") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR025") (unit 1)
         )
@@ -14287,7 +14259,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX23") (unit 1)
         )
@@ -14323,7 +14295,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX5") (unit 1)
         )
@@ -14359,7 +14331,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX54") (unit 1)
         )
@@ -14401,7 +14373,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D1") (unit 1)
         )
@@ -14443,7 +14415,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D80") (unit 1)
         )
@@ -14485,7 +14457,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D39") (unit 1)
         )
@@ -14521,7 +14493,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX92") (unit 1)
         )
@@ -14557,7 +14529,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX71") (unit 1)
         )
@@ -14599,7 +14571,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D83") (unit 1)
         )
@@ -14635,7 +14607,7 @@
           (reference "MX1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "MX39") (unit 1)
         )
@@ -14665,7 +14637,7 @@
     )
     (pin "1" (uuid 14356df4-31ee-4b7b-9fb7-acad34573c5c))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "#PWR014") (unit 1)
         )
@@ -14707,7 +14679,7 @@
           (reference "D1") (unit 1)
         )
       )
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "D71") (unit 1)
         )
@@ -14738,7 +14710,7 @@
     (pin "1" (uuid a403ca12-1d09-48e4-ba20-3dd24159678d))
     (pin "2" (uuid 0536dfbc-0ab7-4eda-a46a-b523335702c3))
     (instances
-      (project "gear85"
+      (project "gear80_hotswap_flex_cut"
         (path "/a62a7e23-797f-43f2-b831-1a56b0dfc2f1"
           (reference "R1") (unit 1)
         )
