@@ -26,10 +26,15 @@
 ![daughterboard](https://github.com/cosmosalad/Gear80/assets/45204109/a3cb0f6b-591e-4ec0-a271-517a2a2de56c)<br/>
 ![daughterboard_ver0 2](https://github.com/user-attachments/assets/c3689d3b-1a7e-46d1-89f5-dfa186c465b4)<br/>
 
-
 <br/><br/>
 
 ### Gear80 hotswap flex cut<br/>
 ![gear80_hotswap_flex_cut01](https://github.com/user-attachments/assets/473d7b3b-0b3c-46fc-ab5e-39cc90a5fc42)<br/>
 ![gear80_hotswap_flex_cut02](https://github.com/user-attachments/assets/565fcced-1936-4238-bc74-448083456955)<br/>
+
+<br/><br/>
+
+### Gear85 hotswap flex cut, number pad<br/>
+![gear85_hotswap_flex_cut01](https://github.com/user-attachments/assets/cc9feeb9-d269-4f30-bd0f-2f9b58c3ad00)<br/>
+![gear85_hotswap_flex_cut02](https://github.com/user-attachments/assets/c2d9d602-5ef3-42b1-bab2-cbc879af0dbe)<br/>
 
