@@ -22,8 +22,9 @@
 
 <br/><br/>
 
-### daughterboard<br/>
+### daughterboard ver.01, ver.02<br/>
 ![daughterboard](https://github.com/cosmosalad/Gear80/assets/45204109/a3cb0f6b-591e-4ec0-a271-517a2a2de56c)<br/>
+![daughterboard_ver0 2](https://github.com/user-attachments/assets/c3689d3b-1a7e-46d1-89f5-dfa186c465b4)<br/>
 
 
 <br/><br/>
