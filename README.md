@@ -82,4 +82,7 @@ This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial
     <img src="http://img.youtube.com/vi/MRHb9Hr9hBU/0.jpg" alt="gear80_no foam" style=width: 46%>
   </a>
 </p>
-<br/>
+<br/><br/><br/>
+
+## Reference<br/>
+- ![Gear60](https://github.com/cosmosalad/Gear60)
