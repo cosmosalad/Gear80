@@ -85,4 +85,4 @@ This pcb prepared the [vial](https://github.com/cosmosalad/Gear80/tree/main/vial
 <br/><br/><br/>
 
 ## Reference<br/>
-- ![Gear60](https://github.com/cosmosalad/Gear60)
+- [Gear60](https://github.com/cosmosalad/Gear60)
