@@ -23,4 +23,12 @@
 <br/><br/>
 
 ### daughterboard<br/>
-![daughterboard](https://github.com/cosmosalad/Gear80/assets/45204109/a3cb0f6b-591e-4ec0-a271-517a2a2de56c)
+![daughterboard](https://github.com/cosmosalad/Gear80/assets/45204109/a3cb0f6b-591e-4ec0-a271-517a2a2de56c)<br/>
+
+
+<br/><br/>
+
+### Gear80 hotswap flex cut<br/>
+![gear80_hotswap_flex_cut01](https://github.com/user-attachments/assets/473d7b3b-0b3c-46fc-ab5e-39cc90a5fc42)<br/>
+![gear80_hotswap_flex_cut02](https://github.com/user-attachments/assets/565fcced-1936-4238-bc74-448083456955)<br/>
+
