@@ -6298,102 +6298,6 @@
 				)
 			)
 		)
-		(symbol "power:GND2"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "GND2"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "GND2_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "GND2_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0) hide
-					(name "GND2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:GNDA"
 			(power)
 			(pin_names
@@ -33102,7 +33006,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND2")
+		(lib_name "GNDA_1")
+		(lib_id "power:GNDA")
 		(at 431.8 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33110,7 +33015,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6ad9f3ab-cec5-4e0e-9055-d73c6d24e118")
+		(uuid "6ce00e61-cacd-4089-b81d-52e4058935ff")
 		(property "Reference" "#PWR041"
 			(at 431.8 224.79 0)
 			(effects
@@ -33120,7 +33025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND2"
+		(property "Value" "GNDR"
 			(at 431.8 223.52 0)
 			(effects
 				(font
@@ -33156,7 +33061,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "bd1ba691-d632-483d-be2e-382be60322b5")
+			(uuid "5b42d6d9-1c04-4d49-a3d2-a9e6836c8929")
 		)
 		(instances
 			(project "gear85_hotswap_flex_cut, number pad"
