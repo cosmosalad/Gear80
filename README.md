@@ -94,6 +94,12 @@ Gear80 / Aluminum / HMX Garnet / PC Plate / ABS / no foam
   </a><br/>
 Gear80 Lite / Bsun RAW /  PC Plate / ABS / Full foam
 <br/><br/>
+  
+  <a href="https://youtube.com/embed/d4M2H16-_T0?feature=shared">
+    <img src="http://img.youtube.com/vi/d4M2H16-_T0/0.jpg" alt="gear80-A_full foam" style=width: 50%>
+  </a><br/>
+Gear80-A / sla / HMX Cheese / PC Plate / PBT / Full foam
+<br/><br/>
 
 </p>
 <br/>
